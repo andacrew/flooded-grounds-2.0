@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c6abedf4-3894-406b-9afa-034c7358d98b}">
+        <property name="assetPath">
+            <value>FPS_MUS_MainMenuTheme.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>161.68950113378685</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c895a100-9fb0-468d-9ae8-a847aa332262}</destination>
+        </relationship>
+    </object>
+</objects>

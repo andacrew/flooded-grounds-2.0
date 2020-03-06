@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerGroup" id="{cbe9844d-b03e-473b-9293-ea240cfa70d3}">
+        <property name="name">
+            <value>Death</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{c784f05c-d822-4371-88c9-f9dd077c5ab2}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{68e03896-5e70-4b86-8d92-4c71b66624f2}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{fdf24f58-6478-42ad-a9a6-78d93f451c54}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{c784f05c-d822-4371-88c9-f9dd077c5ab2}">
+        <relationship name="effects">
+            <destination>{b1cc3770-4e3b-4eec-a2e7-dd77f4fc751c}</destination>
+            <destination>{be8a6969-341d-439c-a5f5-56238833e133}</destination>
+            <destination>{950dac4b-6dd1-48ba-bf21-2c1cbbb68c71}</destination>
+            <destination>{8d0f33c0-3a49-40c7-92a8-d399ba1e311f}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{68e03896-5e70-4b86-8d92-4c71b66624f2}"/>
+    <object class="MixerBusFader" id="{b1cc3770-4e3b-4eec-a2e7-dd77f4fc751c}"/>
+    <object class="CompressorEffect" id="{be8a6969-341d-439c-a5f5-56238833e133}">
+        <property name="threshold">
+            <value>-54.5</value>
+        </property>
+        <property name="ratio">
+            <value>2</value>
+        </property>
+        <property name="attackTime">
+            <value>0.249999985</value>
+        </property>
+        <property name="releaseTime">
+            <value>180</value>
+        </property>
+        <property name="sidechainEnabled">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="Sidechain" id="{950dac4b-6dd1-48ba-bf21-2c1cbbb68c71}">
+        <relationship name="targets">
+            <destination>{63d5e369-4f65-4f32-b859-a25e26ec5fdb}</destination>
+        </relationship>
+    </object>
+    <object class="Sidechain" id="{8d0f33c0-3a49-40c7-92a8-d399ba1e311f}">
+        <relationship name="targets">
+            <destination>{d1b2b76f-26e7-4eba-a85a-06ae3a329e19}</destination>
+        </relationship>
+    </object>
+</objects>

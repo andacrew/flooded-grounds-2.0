@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerGroup" id="{af905ff0-43a2-44c3-8909-1fb1e56d8b53}">
+        <property name="color">
+            <value>Blue</value>
+        </property>
+        <property name="name">
+            <value>Music</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{add13cc7-e04a-498b-b8b6-75a6c65e7867}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{13215ce9-e89b-466d-b929-33ed2e52cf05}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{fdf24f58-6478-42ad-a9a6-78d93f451c54}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{add13cc7-e04a-498b-b8b6-75a6c65e7867}">
+        <relationship name="effects">
+            <destination>{c68ae339-e174-404b-8875-d5dc623bdbfb}</destination>
+            <destination>{3b2c223a-d918-4581-aacc-c1d5faf760c9}</destination>
+            <destination>{ce7aa82a-60dc-43ce-b3ee-e53c828d681a}</destination>
+            <destination>{63d5e369-4f65-4f32-b859-a25e26ec5fdb}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{13215ce9-e89b-466d-b929-33ed2e52cf05}"/>
+    <object class="MixerBusFader" id="{c68ae339-e174-404b-8875-d5dc623bdbfb}"/>
+    <object class="Sidechain" id="{3b2c223a-d918-4581-aacc-c1d5faf760c9}">
+        <relationship name="targets">
+            <destination>{b46ce73a-92d4-49f3-9199-9b86981f6c5c}</destination>
+        </relationship>
+    </object>
+    <object class="CompressorEffect" id="{ce7aa82a-60dc-43ce-b3ee-e53c828d681a}">
+        <property name="threshold">
+            <value>-15</value>
+        </property>
+        <property name="ratio">
+            <value>50</value>
+        </property>
+        <property name="attackTime">
+            <value>2.79999995</value>
+        </property>
+        <property name="releaseTime">
+            <value>240</value>
+        </property>
+        <property name="sidechainEnabled">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="CompressorEffect" id="{63d5e369-4f65-4f32-b859-a25e26ec5fdb}">
+        <property name="threshold">
+            <value>-55.5</value>
+        </property>
+        <property name="ratio">
+            <value>12</value>
+        </property>
+        <property name="attackTime">
+            <value>0.100000001</value>
+        </property>
+        <property name="releaseTime">
+            <value>3500</value>
+        </property>
+        <property name="sidechainEnabled">
+            <value>true</value>
+        </property>
+    </object>
+</objects>

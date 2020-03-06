@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{85913341-568d-4405-a8e4-5f7a065c3889}">
+        <property name="name">
+            <value>Bullet distance (meters)</value>
+        </property>
+        <relationship name="folder">
+            <destination>{5a426b06-4684-4db8-ba50-0c7ecaa43539}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{977a4a10-a9d7-45d2-8a13-f2c7c47dad3d}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{977a4a10-a9d7-45d2-8a13-f2c7c47dad3d}">
+        <property name="maximum">
+            <value>5</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
