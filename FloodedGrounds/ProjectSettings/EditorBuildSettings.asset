@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SceneLoader.unity
     guid: 2a8812d2473d7614aad498ef9de08ecd
   - enabled: 1
-    path: Assets/Main Menu and Login/Desktop.unity
+    path: Assets/Main Menu and Login/Animations/Buttons/Desktop.unity
     guid: 0076590dd1830ff46a78b670ad95ae79
   - enabled: 1
-    path: Assets/Flooded_Grounds/Scenes/Scene_A.unity
+    path: Assets/Scenes/Scene_A.unity
     guid: c0d944ca9defd20449bc336e50d75a08
   m_configObjects: {}
