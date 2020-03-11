@@ -321,7 +321,7 @@ PrefabInstance:
     - target: {fileID: 4373772005442833821, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.000000010498667
+      value: 0.000000010498678
       objectReference: {fileID: 0}
     - target: {fileID: 4373772005442833821, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
@@ -336,12 +336,12 @@ PrefabInstance:
     - target: {fileID: 4373772005442833821, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000021981695
+      value: -0.000000021981691
       objectReference: {fileID: 0}
     - target: {fileID: 4373772006003398952, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.00000001738494
+      value: 0.000000011265353
       objectReference: {fileID: 0}
     - target: {fileID: 4373772006003398952, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
@@ -356,7 +356,7 @@ PrefabInstance:
     - target: {fileID: 4373772006003398952, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.000000025577085
+      value: -0.000000021882835
       objectReference: {fileID: 0}
     - target: {fileID: 4373772006078499506, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
@@ -446,7 +446,7 @@ PrefabInstance:
     - target: {fileID: 4373772006539409167, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.000000012993494
+      value: -0.000000014975486
       objectReference: {fileID: 0}
     - target: {fileID: 4373772006539409167, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
@@ -456,12 +456,12 @@ PrefabInstance:
     - target: {fileID: 4373772006539409167, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.12788406
+      value: -0.12788405
       objectReference: {fileID: 0}
     - target: {fileID: 4373772006539409167, guid: db0841a3d2b45d945a3e06d2753ee18a,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.000000009284578
+      value: -0.0000000060865166
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0841a3d2b45d945a3e06d2753ee18a, type: 3}
@@ -1917,6 +1917,12 @@ Transform:
   m_Father: {fileID: 880396448}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 129.20099, y: -52.123993, z: -17.640015}
+--- !u!4 &1553376887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+    type: 3}
+  m_PrefabInstance: {fileID: 1886627363}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1676363318 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4373772005442833818, guid: db0841a3d2b45d945a3e06d2753ee18a,
@@ -1958,6 +1964,7 @@ Transform:
   m_Children:
   - {fileID: 2032758707}
   - {fileID: 1162964036}
+  - {fileID: 1553376887}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2126,6 +2133,75 @@ Transform:
   m_Father: {fileID: 880396448}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 115.247986, y: -70.715, z: -68.845}
+--- !u!1001 &1886627363
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1729391823}
+    m_Modifications:
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.10007
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.177024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -27.00064
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353065, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3346456062846353071, guid: 242f22d7c27646f4bb9c8874bfcb2551,
+        type: 3}
+      propertyPath: m_Name
+      value: KirinAudio
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 242f22d7c27646f4bb9c8874bfcb2551, type: 3}
 --- !u!1 &2011204166
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,7 +2294,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2032758706}
-  m_LocalRotation: {x: -0.00000001738494, y: 0.99178916, z: -0.12788408, w: -0.000000025577085}
+  m_LocalRotation: {x: -0.000000014870047, y: 0.99178916, z: -0.12788406, w: -0.0000000060729235}
   m_LocalPosition: {x: 0, y: 2.5, z: -63.08}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -2365,32 +2441,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 803b00b1c55094e499a99684ddbd9b57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Title: Kirin Player
-  m_Description: 'Turn this window off by removing the script on Main Camera
-
-
-    WASD keys to move the character
-
-    Mouse to Rotate around and steer
-
-    Left Shift to toggle between Walk and Run
-
-    Space key to Jump
-
-    Left Mouse to Fire Weapon
-
-'
-  mShowingHelpWindow: 1
 --- !u!114 &2032758711
 MonoBehaviour:
   m_ObjectHideFlags: 0
