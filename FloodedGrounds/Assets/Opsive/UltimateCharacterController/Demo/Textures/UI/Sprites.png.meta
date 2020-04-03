@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 5fb67c614ba76ca45a811c8e1f7be476
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WeaponBG
+    21300002: GrenadeBG
+    21300004: Assault Rifle
+    21300006: SecondaryFragGrenadeIcon
+    21300008: Heart
+    21300010: Katana
+    21300012: Pistol
+    21300014: SwordIcon
+    21300016: Rocket Launcher
+    21300018: BowIcon
+    21300020: FistCrosshairs
+    21300022: PistolCrosshairsCenter
+    21300024: Weapon8
+    21300026: Weapon1
+    21300028: Weapon2
+    21300030: Weapon4
+    21300032: Weapon7
+    21300034: Weapon6
+    21300036: Weapon5
+    21300038: Weapon3
+    21300040: Interact
+    21300042: Cover
+    21300044: Vault
+    21300046: PistolCrosshairsTop
+    21300048: PistolCrosshairsRight
+    21300050: PistolCrosshairsLeft
+    21300052: RocketLauncherCrosshairs
+    21300054: MeleeCrosshairs
+    21300056: AssaultRifleCrosshairsCenter
+    21300058: AssaultRifleCrosshairsTop
+    21300060: AssaultRifleCrosshairsBottom
+    21300062: AssaultRifleCrosshairsRight
+    21300064: AssaultRifleCrosshairsLeft
+    21300066: PistolCrosshairsBottom
+    21300068: HitIndicator
+    21300070: BodyIcon
+    21300072: BowCrosshairsAim
+    21300074: BlackSquare
+    21300076: Touchpad
+    21300078: Button
+    21300080: Climb
+    21300082: LedgeStrafe
+    21300084: DualWieldWeaponBG
+    21300086: GenreBG
+    21300088: Pickup
+    21300090: AssaultRifleIcon
+    21300092: Push
+    21300094: Round Shield
+    21300096: SwordIcon
+    21300098: Shockwave
+    21300100: Fire Stream
+    21300102: Ride
+    21300104: ShotgunCrosshairs
+    21300106: SniperCrosshairs
+    21300108: SlingshotCrosshairs
+    21300110: CrossbowCrosshairs
+    21300112: ShotgunIcon
+    21300114: Sniper
+    21300116: Katana_Adventure
+    21300118: Fist_Adventure
+    21300120: Axe_Adventure
+    21300122: Dagger_Adventure
+    21300124: Crossbow_Adventure
+    21300126: Slingshot_Adventure
+    21300128: Bow_Adventure
+    21300130: Riot Shield
+    21300132: Sniper Rifle
+    21300134: GrenadeProjectile
+    21300136: ShieldFill
+    21300138: ShieldBackground
+    21300140: WeaponLine
+    21300142: BodyCrosshairs
+    21300144: Box_Border
+    21300146: Box_NoBorder
+    21300148: Solid
+    21300150: Box_Solid
+    21300152: Box_Gradient
+    21300154: Box_ThickerBorder
+    21300156: Box_BorderOnly
+    21300158: DescriptionPanel
+    21300160: RightArrow
+    21300162: PerspectiveIcon
+    21300164: MovementTypeIcon
+    21300166: AbilityIndicator
+    21300168: BowCrosshairs_Attack
+    21300170: FragGrenadeCrosshairs
+    21300172: PistolIcon
+    21300174: LeftArrow
+    21300176: HitIndicatorFill
+    21300178: Joystick
+    21300180: JoystickBase
+    21300182: CircleButton
+    21300184: Weaponbg
+    21300186: Weaponbg2
+    21300188: LeftPistolIcon
+    21300190: KatanaIcon
+    21300192: KnifeIcon
+    21300194: RocketLauncherIcon
+    21300196: ShieldIcon
+    21300198: SniperRifleIcon
+    21300200: Slot1Background
+    21300202: Slot2Background
+    21300204: WeaponBG
+    21300206: RightAssaultRifle
+    21300208: PrimaryFragGrenadeIcon
+    21300210: LoadOutBG
+    21300212: HeaderPanel
+    21300214: PerspectiveMovementPanel
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SecondaryFragGrenadeIcon
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 932
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff74c76ebea2f4eb50485e8d268f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowIcon
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 957
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f538d49319e61b46b077dd305578141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolCrosshairsCenter
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 479
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf96a11cbab354a903aaa284780cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolCrosshairsTop
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 500
+        width: 10
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1114153fca6005c4e85473ad443d138b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolCrosshairsRight
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 489
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a0a9c7415eec7449e9647932f9781e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolCrosshairsLeft
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 489
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0595b5a05cf64cb27015c580366b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketLauncherCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 465
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a9db269a437648b4b7d866412e551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 527
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b48f9b5b93c364db45f3083335bf09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolCrosshairsBottom
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 485
+        width: 10
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f7d9abf2ed9c46b18821303383717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyIcon
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 783
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e71b4587b37349953da08008afc80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowCrosshairsAim
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d9e65f3f6d0b4d9f731fadb88cc70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleIcon
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 973
+        width: 119
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecd6e120e49311418e955d04714ab5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleCrosshairsCenter
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 529
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0272e7d30436546871d1fc2442e3a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleCrosshairsTop
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 555
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936eb29ff05309347b92867762259aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleCrosshairsRight
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 548
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db89ea016c3457042a94f01177a02e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleCrosshairsBottom
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 535
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c916d97770bae498822ce6a8db1749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifleCrosshairsLeft
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 548
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f814cb2ef36daf40a051571377baa61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d86bc4e88a7189438e02927b88e1227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SniperCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 486
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f642dddf3cb541a50adfa8f243e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIcon
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 980
+        width: 119
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede84384923ed914ea47522653a11ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunIcon
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 895
+        width: 122
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5cc504abea6cf42a1cd89e2c22aa11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponLine
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 241
+        width: 2
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d625484e18b149b43c82be5657866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitIndicator
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 388
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3009990cdeec4e8ed7b72af6eeabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_Border
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa17dc4b70b57449a735238cbe1130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_NoBorder
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bdf4418112fd46b295c03f9e49d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_Solid
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498612aa5a907ff42aa5fe7f30be32b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_Gradient
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8bad86c302294b91e8bcaac381db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_ThickerBorder
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 208
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 1, z: 8, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec356f41351d3140bb4432981fe2ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_BorderOnly
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387777767ef0c34bbcba1be3334dec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DescriptionPanel
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 213
+        width: 580
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98ff1ba1e6fde46866be6bfaddeb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightArrow
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 379
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359421fed9397e409d388d69c2e860e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerspectiveIcon
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 363
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc1c00900f95e4a99f68f671c20939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementTypeIcon
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 357
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ee12e53491824899eb257596a6d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityIndicator
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 155
+        width: 350
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b751b98d7b698946a6d473ffb3e9e84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowCrosshairs_Attack
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09953adb6ea0b454b8f56613a3e2a6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 540
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ff3f76db21dc4394bb1dbae6ba2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragGrenadeCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 528
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2383a7161b74c44795f1aa8155e60c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PistolIcon
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 817
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff82734ed74914aaa2d6d2b424ccdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftArrow
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 379
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea7435c83fc85f4b851b0b837889f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 174
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9227e3e958c364da4a52598ff42d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoystickBase
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cfcdb94f85f540be62f875d01fe08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircleButton
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2253b2b61abd90244a14d11ee1c133de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KatanaIcon
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 832
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7b97db1c25b74c91ad2d7bbd61068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnifeIcon
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 844
+        width: 107
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb65a647a4c4940a21ea59ec684c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketLauncherIcon
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 901
+        width: 133
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a227eb47e34a4bb25c84cf4a8c059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldIcon
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 896
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25fdfc1a483ce441902854acbc60b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SniperRifleIcon
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 974
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517438992aac354a8cc7bf4049788bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponBG
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 658
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8fe067789a03f48a9af6652364e5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAssaultRifle
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 973
+        width: 119
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3aff4c2777d74180bf877ad9aae5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimaryFragGrenadeIcon
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 851
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9886945e6399f4dade580e8555fc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadOutBG
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 700
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3deae13e14a844b5bdb0e45274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerspectiveMovementPanel
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 318
+        width: 385
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1e7fc868b9b8428ce049d54414bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
