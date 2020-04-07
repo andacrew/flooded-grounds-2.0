@@ -145,7 +145,7 @@ public class KirinController : MonoBehaviour
 
         }
     }
-/*
+
     #region Kirin Audio Effects
         //Trigger Kirin Audio Effects
         //These are called by Events in each animation file. The names need to match the ones set there.
@@ -164,5 +164,5 @@ public class KirinController : MonoBehaviour
     void HandGunDischarge() => KirinAudioPlayer.instance.PlayAudioHandgunDischarge();
     void Slash() => KirinAudioPlayer.instance.PlayAudioSlash();
 
-    #endregion  */
+    #endregion
 }

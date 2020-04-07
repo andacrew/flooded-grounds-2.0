@@ -38,7 +38,7 @@ public class SceneController : MonoBehaviour {
     } 
     
     private IEnumerator LoadSceneAndSetActive(string sceneName) {    
-        AsyncOperation asyncScene =  SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);         
+        AsyncOperation asyncScene =  SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);     
         asyncScene.allowSceneActivation = false;
         loadingScreenObj.SetActive(true);
 
