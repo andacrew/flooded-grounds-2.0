@@ -31,8 +31,14 @@ public class JoinGameManager : MonoBehaviour
         //RequestJoinGame request = new RequestJoinGame();
         //request.send();
         //cManager.send(request);
+        System.Random rand = new System.Random();
+        string[] charNames = { "Max", "Winston", "Izzy", "Bog_lord"};
 
-        Main.setCharacter("Max");
+        int randIndex = rand.Next(charNames.Length);
+
+        string randChar = charNames[randIndex];
+
+        Main.setCharacter(randChar);
         Main.gameState = Main.GameState.GAME;
     }
 
@@ -43,8 +49,6 @@ public class JoinGameManager : MonoBehaviour
         {
             Main.setCharacter(args.character);
             Main.gameState = Main.GameState.GAME;            
-        }
-        
-        
+        }    
     }
 }

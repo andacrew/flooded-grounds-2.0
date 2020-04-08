@@ -72,8 +72,6 @@ public class Constants
 
     public static int USER_ID = -1;
 
-
-
     //Character constants
     public static string MONSTER = "Bog_lord";
     public static string GIRL = "Izzy";
@@ -146,8 +144,6 @@ public class Constants
     // static method to populate scene specific dictionary
     public static void loadSceneAConstants()
     {
-
-
         components = new Dictionary<string, characterComponents>();
         GameObject monster = GameObject.FindWithTag(MONSTER);
         components.Add(MONSTER, new characterComponents(monster, monster.GetComponent<NetworkMovement>(), monster.GetComponent<Animator>()));
