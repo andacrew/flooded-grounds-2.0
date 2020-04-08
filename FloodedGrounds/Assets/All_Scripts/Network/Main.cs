@@ -146,7 +146,7 @@ public class Main : MonoBehaviour
                     // break;
                 case GameState.LOGIN:
                 case GameState.MAIN_MENU:
-                    if (lastState == GameState.GAME) sceneController.FadeAndLoadScene("Desktop"); // reload menu after a game;
+                    if (lastState == GameState.GAME) sceneController.FadeAndLoadScene("Main_Menu"); // reload menu after a game;
 
                     RequestKeepAlive keepAlive = new RequestKeepAlive();
                     keepAlive.send();
@@ -155,9 +155,9 @@ public class Main : MonoBehaviour
 
                 case GameState.GAME:
                     if (lastState == GameState.MAIN_MENU) {
-                        sceneController.FadeAndLoadScene("Scene_A");
+                        sceneController.FadeAndLoadScene("Game_Scene");
 
-                        while (SceneManager.GetActiveScene().name != "Scene_A") yield return null;
+                        while (SceneManager.GetActiveScene().name != "Game_Scene") yield return null;
 
                         Constants.loadSceneAConstants();
 
