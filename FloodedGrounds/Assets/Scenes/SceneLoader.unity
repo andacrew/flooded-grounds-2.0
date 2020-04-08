@@ -880,7 +880,7 @@ MonoBehaviour:
   loadingScreenObj: {fileID: 993505320}
   slider: {fileID: 434633302}
   fadeDuration: 1
-  startingSceneName: Desktop
+  startingSceneName: Main_Menu
 --- !u!1 &993505320
 GameObject:
   m_ObjectHideFlags: 0
