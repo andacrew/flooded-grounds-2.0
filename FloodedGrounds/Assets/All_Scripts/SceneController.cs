@@ -13,7 +13,7 @@ public class SceneController : MonoBehaviour {
     public GameObject loadingScreenObj;
     public Slider slider;   
     public float fadeDuration = 1f;   
-    public string startingSceneName = "Desktop";
+    public string startingSceneName = "Main_Menu";
 
     private IEnumerator Start() {
         faderCanvasGroup.alpha = 1f;
@@ -27,14 +27,13 @@ public class SceneController : MonoBehaviour {
         }
     }
     
-    private IEnumerator FadeAndSwitchScenes(string sceneName){
+    private IEnumerator FadeAndSwitchScenes(string sceneName) {
         yield return StartCoroutine(Fade(1f));        
         if (BeforeSceneUnload != null) BeforeSceneUnload();
         yield return SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene().buildIndex);
         yield return StartCoroutine(LoadSceneAndSetActive(sceneName));   
         if (AfterSceneLoad != null) AfterSceneLoad();  
         yield return StartCoroutine(Fade(0f));
-        
     } 
     
     private IEnumerator LoadSceneAndSetActive(string sceneName) {    
