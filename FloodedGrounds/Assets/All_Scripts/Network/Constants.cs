@@ -77,6 +77,7 @@ public class Constants
     public static string GIRL = "Izzy";
     public static string GUY1 = "Max";
     public static string GUY2 = "Winston";
+    public static string KIRIN = "Kirin";
 
     //Dictionary to map ids to the characters
     public static Dictionary<int, string> IDtoCharacter;
@@ -121,6 +122,7 @@ public class Constants
         IDtoCharacter.Add(1, GIRL);
         IDtoCharacter.Add(2, GUY1);
         IDtoCharacter.Add(3, GUY2);
+        
 
         CharacterToID = new Dictionary<string, int>();
         CharacterToID.Add(MONSTER, 0);
@@ -139,6 +141,7 @@ public class Constants
         movementScripts.Add(GIRL, "PlayerMovement2");
         movementScripts.Add(GUY1, "MaxMovement");
         movementScripts.Add(GUY2, "MaxMovement");
+        movementScripts.Add(KIRIN, "KirinController");
     }
 
     // static method to populate scene specific dictionary
