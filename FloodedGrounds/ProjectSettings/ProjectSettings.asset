@@ -581,7 +581,9 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -601,10 +603,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 2fa66c7d-94df-4daa-b9e1-c1b9b87e4d26
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: FloodedGrounds
+  organizationId: andacrews
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
