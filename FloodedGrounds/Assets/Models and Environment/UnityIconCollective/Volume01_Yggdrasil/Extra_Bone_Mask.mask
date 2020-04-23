@@ -1,0 +1,444 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Extra_Bone_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Mesh_Seeker_Var1
+    m_Weight: 1
+  - m_Path: Mesh_Weapon
+    m_Weight: 1
+  - m_Path: Seeker
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Bag_Back_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Bag_Front_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Belt_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Belt_01/B_Extra_Belt_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Belt_01/B_Extra_Belt_02/B_Extra_Belt_03
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_L/B_Extra_Dress_Back_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_M
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_M/B_Extra_Dress_Back_02_M
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_R/B_Extra_Dress_Back_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_L/B_Extra_Dress_Front_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_M
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_M/B_Extra_Dress_Front_02_M
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_R/B_Extra_Dress_Front_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02/B_Extra_Skeleton_Head_03
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02/B_Extra_Skeleton_Head_03/B_Extra_Skeleton_Head_04
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Weapon_Axe_Pos_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Extra_Weapon_Axe_Pos_01/B_Extra_Weapon_Axe_Handle_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Hold_Weapon_Axe_Pos_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Spline_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Spline_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_Leg_Hydraulc_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_Heel_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_L/B_Toe_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Foot_Heel_Trakcer_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Leg_Hydraulc_03_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Leg_Hydraulc_03_L/B_Leg_Hydraulc_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_Extra_Bag_R_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_Leg_Hydraulc_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_Heel_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_R/B_Toe_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Foot_Heel_Trakcer_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Leg_Hydraulc_03_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Leg_Hydraulc_03_R/B_Leg_Hydraulc_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_PowerCore_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_PowerCore_01/B_Extra_PowerCore_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_L/B_Extra_Shell_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_R/B_Extra_Shell_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_L/B_Extra_Spline_04_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_R/B_Extra_Shell_04_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_L/B_Extra_Shell_06_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_R/B_Extra_Shell_06_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_Center_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_Center_01/B_Extra_Shell_Center_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Spline_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Spline_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Hair_Cable_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Hair_Cable_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Hair_Cable_02_L_001
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Hair_Cable_02_R_001
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Eye_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Eye_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Hair_Cable_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Hair_Cable_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Hexapod_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Hexapod_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Tip_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Tip_01/B_Head_Tip_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head_Hexapod_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head_Hexapod_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_Hexapod_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Shoulder_Cable_01_R_004
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck_Hexapod_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck_Hexapod_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_A_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_B_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_C_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_D_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_E_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_F_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_A_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_B_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_C_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_D_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_E_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_F_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Arm_Hydraulc_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Extra_Shoulder_Back_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Arm_Hydraulc_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L/B_FingerIndex_4_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L/B_FingerIndex_4_L/B_FingerIndex_5_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L/B_FingerMiddle_4_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L/B_FingerMiddle_4_L/B_FingerMiddle_5_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L/B_FingerPinky_4_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L/B_FingerPinky_4_L/B_FingerPinky_5_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L/B_FingerRing_4_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L/B_FingerRing_4_L/B_FingerRing_5_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L/B_FingerThrumb_5_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L/B_FingerThrumb_5_L/B_FingerThrumb_6_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_CTR_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_Cable_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_Cable_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_L_001
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_A_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_B_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_C_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_D_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_E_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_F_02_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Pad_01_L
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Arm_Hydraulc_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Extra_Shoulder_Back_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Extra_Shoulder_Front_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Arm_Hydraulc_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R/B_FingerIndex_4_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R/B_FingerIndex_4_R/B_FingerIndex_5_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R/B_FingerMiddle_4_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R/B_FingerMiddle_4_R/B_FingerMiddle_5_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R/B_FingerPinky_4_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R/B_FingerPinky_4_R/B_FingerPinky_5_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R/B_FingerRing_4_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R/B_FingerRing_4_R/B_FingerRing_5_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R/B_FingerThrumb_5_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R/B_FingerThrumb_5_R/B_FingerThrumb_6_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_A_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_A_01/B_Weapon_Staff_Arm_A_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_B_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_B_01/B_Weapon_Staff_Arm_B_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_C_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_C_01/B_Weapon_Staff_Arm_C_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_D_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_D_01/B_Weapon_Staff_Arm_D_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Core_01
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Core_02
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Tip
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Shoulder_Cable_01_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Shoulder_Cable_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_A_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_B_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_C_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_D_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_E_02_R
+    m_Weight: 1
+  - m_Path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_F_02_R
+    m_Weight: 1
