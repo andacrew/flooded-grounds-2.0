@@ -1,0 +1,8 @@
+{
+    "name": "Opsive.UltimateCharacterController.Addons.Shared.Demo",
+    "references": [
+        "Opsive.UltimateCharacterController"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
