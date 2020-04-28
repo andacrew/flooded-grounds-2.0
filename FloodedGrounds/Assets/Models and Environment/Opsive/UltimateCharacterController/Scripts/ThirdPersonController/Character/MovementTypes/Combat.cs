@@ -27,7 +27,7 @@ namespace Opsive.UltimateCharacterController.ThirdPersonController.Character.Mov
         /// <returns>The delta yaw rotation of the character.</returns>
         public override float GetDeltaYawRotation(float characterHorizontalMovement, float characterForwardMovement, float cameraHorizontalMovement, float cameraVerticalMovement)
         {
-            var lookRotation = Quaternion.LookRotation(m_LookSource.LookDirection(true), m_CharacterLocomotion.Up);
+                    var lookRotation = Quaternion.LookRotation(m_LookSource.LookDirection(true), m_CharacterLocomotion.Up);
             // Convert to a local character rotation and then only return the relative y rotation.
             return MathUtility.ClampInnerAngle(MathUtility.InverseTransformQuaternion(m_Transform.rotation, lookRotation).eulerAngles.y);
         }

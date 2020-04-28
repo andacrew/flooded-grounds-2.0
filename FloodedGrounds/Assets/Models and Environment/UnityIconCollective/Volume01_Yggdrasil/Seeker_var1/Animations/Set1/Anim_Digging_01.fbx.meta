@@ -1,0 +1,2720 @@
+fileFormatVersion: 2
+guid: fe18d526e22850f40b8515e84afbc1a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_Ankle_L
+    100004: B_Ankle_R
+    100006: B_Arm_Hydraulc_01_L
+    100008: B_Arm_Hydraulc_01_R
+    100010: B_Arm_Hydraulc_02_L
+    100012: B_Arm_Hydraulc_02_R
+    100014: B_Arm_L
+    100016: B_Arm_R
+    100018: B_Extra_Bag_Back_01
+    100020: B_Extra_Bag_Front_01
+    100022: B_Extra_Bag_R_01
+    100024: B_Extra_Belt_01
+    100026: B_Extra_Belt_02
+    100028: B_Extra_Belt_03
+    100030: B_Extra_Dress__Back_01_L
+    100032: B_Extra_Dress__Back_01_M
+    100034: B_Extra_Dress__Back_01_R
+    100036: B_Extra_Dress__Back_02_L
+    100038: B_Extra_Dress__Back_02_M
+    100040: B_Extra_Dress__Back_02_R
+    100042: B_Extra_Dress__Front_01_L
+    100044: B_Extra_Dress__Front_01_M
+    100046: B_Extra_Dress__Front_01_R
+    100048: B_Extra_Dress__Front_02_L
+    100050: B_Extra_Dress__Front_02_M
+    100052: B_Extra_Dress__Front_02_R
+    100054: B_Extra_Hold_Weapon_Axe_Pos_01
+    100056: B_Extra_PowerCore_01
+    100058: B_Extra_PowerCore_02
+    100060: B_Extra_Shell_01_L
+    100062: B_Extra_Shell_01_R
+    100064: B_Extra_Shell_02_L
+    100066: B_Extra_Shell_02_R
+    100068: B_Extra_Shell_03_L
+    100070: B_Extra_Shell_03_R
+    100072: B_Extra_Shell_04_R
+    100074: B_Extra_Shell_05_L
+    100076: B_Extra_Shell_05_R
+    100078: B_Extra_Shell_06_L
+    100080: B_Extra_Shell_06_R
+    100082: B_Extra_Shoulder_Back_L
+    100084: B_Extra_Shoulder_Back_R
+    100086: B_Extra_Shoulder_Front_R
+    100088: B_Extra_Skeleton_Head_01
+    100090: B_Extra_Skeleton_Head_02
+    100092: B_Extra_Skeleton_Head_03
+    100094: B_Extra_Skeleton_Head_04
+    100096: B_Extra_Spline_01_L
+    100098: B_Extra_Spline_01_L_007
+    100100: B_Extra_Spline_01_L_008
+    100102: B_Extra_Spline_01_R
+    100104: B_Extra_Spline_02_L
+    100106: B_Extra_Spline_02_R
+    100108: B_Extra_Spline_04_L
+    100110: B_Extra_Weapon_Axe_Handle_01
+    100112: B_Extra_Weapon_Axe_Pos_01
+    100114: B_Eye_L
+    100116: B_Eye_R
+    100118: B_FingerIndex_1_L
+    100120: B_FingerIndex_1_R
+    100122: B_FingerIndex_2_L
+    100124: B_FingerIndex_2_R
+    100126: B_FingerIndex_3_L
+    100128: B_FingerIndex_3_R
+    100130: B_FingerIndex_4_L
+    100132: B_FingerIndex_4_R
+    100134: B_FingerIndex_5_L
+    100136: B_FingerIndex_5_R
+    100138: B_FingerMiddle_1_L
+    100140: B_FingerMiddle_1_R
+    100142: B_FingerMiddle_2_L
+    100144: B_FingerMiddle_2_R
+    100146: B_FingerMiddle_3_L
+    100148: B_FingerMiddle_3_R
+    100150: B_FingerMiddle_4_L
+    100152: B_FingerMiddle_4_R
+    100154: B_FingerMiddle_5_L
+    100156: B_FingerMiddle_5_R
+    100158: B_FingerPinky_1_L
+    100160: B_FingerPinky_1_R
+    100162: B_FingerPinky_2_L
+    100164: B_FingerPinky_2_R
+    100166: B_FingerPinky_3_L
+    100168: B_FingerPinky_3_R
+    100170: B_FingerPinky_4_L
+    100172: B_FingerPinky_4_R
+    100174: B_FingerPinky_5_L
+    100176: B_FingerPinky_5_R
+    100178: B_FingerRing_1_L
+    100180: B_FingerRing_1_R
+    100182: B_FingerRing_2_L
+    100184: B_FingerRing_2_R
+    100186: B_FingerRing_3_L
+    100188: B_FingerRing_3_R
+    100190: B_FingerRing_4_L
+    100192: B_FingerRing_4_R
+    100194: B_FingerRing_5_L
+    100196: B_FingerRing_5_R
+    100198: B_FingerThrumb_1_L
+    100200: B_FingerThrumb_1_R
+    100202: B_FingerThrumb_2_L
+    100204: B_FingerThrumb_2_R
+    100206: B_FingerThrumb_3_L
+    100208: B_FingerThrumb_3_R
+    100210: B_FingerThrumb_4_L
+    100212: B_FingerThrumb_4_R
+    100214: B_FingerThrumb_5_L
+    100216: B_FingerThrumb_5_R
+    100218: B_FingerThrumb_6_L
+    100220: B_FingerThrumb_6_R
+    100222: B_Foot_Heel_L
+    100224: B_Foot_Heel_R
+    100226: B_Foot_Heel_Trakcer_L
+    100228: B_Foot_Heel_Trakcer_R
+    100230: B_Foot_L
+    100232: B_Foot_R
+    100234: B_ForeArm_L
+    100236: B_ForeArm_R
+    100238: B_Hair_Cable_01_L
+    100240: B_Hair_Cable_01_R
+    100242: B_Hair_Cable_02_L
+    100244: B_Hair_Cable_02_L_001
+    100246: B_Hair_Cable_02_R
+    100248: B_Hair_Cable_02_R_001
+    100250: B_Head
+    100252: B_Head_Hexapod_01_L
+    100254: B_Head_Hexapod_01_R
+    100256: B_Head_Hexapod_02_L
+    100258: B_Head_Hexapod_02_R
+    100260: B_Head_Tip_01
+    100262: B_Head_Tip_02
+    100264: B_Hip
+    100266: B_Leg_Hydraulc_01_L
+    100268: B_Leg_Hydraulc_01_R
+    100270: B_Leg_Hydraulc_02_L
+    100272: B_Leg_Hydraulc_02_R
+    100274: B_Leg_Hydraulc_03_L
+    100276: B_Leg_Hydraulc_03_R
+    100278: B_LowerLeg_L
+    100280: B_LowerLeg_R
+    100282: B_Neck
+    100284: B_Neck_02
+    100286: B_Neck_03
+    100288: B_Neck_04
+    100290: B_Neck_Hexapod_01_L
+    100292: B_Reference
+    100294: B_Root
+    100296: B_Shoulder_Cable_01_L
+    100298: B_Shoulder_Cable_01_L_003
+    100300: B_Shoulder_Cable_01_R
+    100302: B_Shoulder_Cable_01_R_003
+    100304: B_Shoulder_Cable_01_R_004
+    100306: B_Shoulder_Cable_02_L
+    100308: B_Shoulder_Cable_02_R
+    100310: B_Shoulder_Hexapod_01_L
+    100312: B_Shoulder_Hexapod_01_R
+    100314: B_Shoulder_Hexapod_02_L
+    100316: B_Shoulder_Hexapod_02_R
+    100318: B_Shoulder_Hexapod_A_01_L
+    100320: B_Shoulder_Hexapod_A_01_R
+    100322: B_Shoulder_Hexapod_A_02_L
+    100324: B_Shoulder_Hexapod_A_02_R
+    100326: B_Shoulder_Hexapod_B_01_L
+    100328: B_Shoulder_Hexapod_B_01_R
+    100330: B_Shoulder_Hexapod_B_02_L
+    100332: B_Shoulder_Hexapod_B_02_R
+    100334: B_Shoulder_Hexapod_C_01_L
+    100336: B_Shoulder_Hexapod_C_01_R
+    100338: B_Shoulder_Hexapod_C_02_L
+    100340: B_Shoulder_Hexapod_C_02_R
+    100342: B_Shoulder_Hexapod_D_01_L
+    100344: B_Shoulder_Hexapod_D_01_R
+    100346: B_Shoulder_Hexapod_D_02_L
+    100348: B_Shoulder_Hexapod_D_02_R
+    100350: B_Shoulder_Hexapod_E_01_L
+    100352: B_Shoulder_Hexapod_E_01_R
+    100354: B_Shoulder_Hexapod_E_02_L
+    100356: B_Shoulder_Hexapod_E_02_R
+    100358: B_Shoulder_Hexapod_F_01_L
+    100360: B_Shoulder_Hexapod_F_01_R
+    100362: B_Shoulder_Hexapod_F_02_L
+    100364: B_Shoulder_Hexapod_F_02_R
+    100366: B_Shoulder_L
+    100368: B_Shoulder_L_001
+    100370: B_Shoulder_Pad_01_L
+    100372: B_Shoulder_R
+    100374: B_Spline_Head
+    100376: B_Spline_Mid
+    100378: B_Spline_Tail
+    100380: B_Toe_L
+    100382: B_Toe_R
+    100384: B_UpperLeg_L
+    100386: B_UpperLeg_R
+    100388: B_Weapon_Staff
+    100390: B_Weapon_Staff_001
+    100392: B_Weapon_Staff_002
+    100394: B_Weapon_Staff_003
+    100396: B_Weapon_Staff_004
+    100398: B_Weapon_Staff_005
+    100400: B_Weapon_Staff_006
+    100402: B_Weapon_Staff_007
+    100404: B_Weapon_Staff_008
+    100406: B_Weapon_Staff_009
+    100408: B_Weapon_Staff_011
+    100410: B_Weapon_Staff_012
+    100412: B_Weapon_Staff_013
+    100414: B_Weapon_Staff_014
+    100416: B_Wrist_01_L
+    100418: B_Wrist_01_R
+    100420: B_Wrist_02_L
+    100422: B_Wrist_02_R
+    100424: B_Wrist_CTR_L
+    100426: B_Wrist_CTR_R
+    100428: Seeker
+    100430: B_Extra_Dress_Back_01_L
+    100432: B_Extra_Dress_Back_01_M
+    100434: B_Extra_Dress_Back_01_R
+    100436: B_Extra_Dress_Back_02_L
+    100438: B_Extra_Dress_Back_02_M
+    100440: B_Extra_Dress_Back_02_R
+    100442: B_Extra_Dress_Front_01_L
+    100444: B_Extra_Dress_Front_01_M
+    100446: B_Extra_Dress_Front_01_R
+    100448: B_Extra_Dress_Front_02_L
+    100450: B_Extra_Dress_Front_02_M
+    100452: B_Extra_Dress_Front_02_R
+    100454: B_Extra_Shell_Center_01
+    100456: B_Extra_Shell_Center_02
+    100458: B_Neck_Hexapod_02_L
+    100460: B_Neck_Hexapod_02_R
+    100462: B_Weapon_Staff_01
+    100464: B_Weapon_Staff_02
+    100466: B_Weapon_Staff_03
+    100468: B_Weapon_Staff_Arm_A_01
+    100470: B_Weapon_Staff_Arm_A_02
+    100472: B_Weapon_Staff_Arm_B_01
+    100474: B_Weapon_Staff_Arm_B_02
+    100476: B_Weapon_Staff_Arm_C_01
+    100478: B_Weapon_Staff_Arm_C_02
+    100480: B_Weapon_Staff_Arm_D_01
+    100482: B_Weapon_Staff_Arm_D_02
+    100484: B_Weapon_Staff_Core_01
+    100486: B_Weapon_Staff_Core_02
+    100488: B_Weapon_Staff_Tip
+    400000: //RootNode
+    400002: B_Ankle_L
+    400004: B_Ankle_R
+    400006: B_Arm_Hydraulc_01_L
+    400008: B_Arm_Hydraulc_01_R
+    400010: B_Arm_Hydraulc_02_L
+    400012: B_Arm_Hydraulc_02_R
+    400014: B_Arm_L
+    400016: B_Arm_R
+    400018: B_Extra_Bag_Back_01
+    400020: B_Extra_Bag_Front_01
+    400022: B_Extra_Bag_R_01
+    400024: B_Extra_Belt_01
+    400026: B_Extra_Belt_02
+    400028: B_Extra_Belt_03
+    400030: B_Extra_Dress__Back_01_L
+    400032: B_Extra_Dress__Back_01_M
+    400034: B_Extra_Dress__Back_01_R
+    400036: B_Extra_Dress__Back_02_L
+    400038: B_Extra_Dress__Back_02_M
+    400040: B_Extra_Dress__Back_02_R
+    400042: B_Extra_Dress__Front_01_L
+    400044: B_Extra_Dress__Front_01_M
+    400046: B_Extra_Dress__Front_01_R
+    400048: B_Extra_Dress__Front_02_L
+    400050: B_Extra_Dress__Front_02_M
+    400052: B_Extra_Dress__Front_02_R
+    400054: B_Extra_Hold_Weapon_Axe_Pos_01
+    400056: B_Extra_PowerCore_01
+    400058: B_Extra_PowerCore_02
+    400060: B_Extra_Shell_01_L
+    400062: B_Extra_Shell_01_R
+    400064: B_Extra_Shell_02_L
+    400066: B_Extra_Shell_02_R
+    400068: B_Extra_Shell_03_L
+    400070: B_Extra_Shell_03_R
+    400072: B_Extra_Shell_04_R
+    400074: B_Extra_Shell_05_L
+    400076: B_Extra_Shell_05_R
+    400078: B_Extra_Shell_06_L
+    400080: B_Extra_Shell_06_R
+    400082: B_Extra_Shoulder_Back_L
+    400084: B_Extra_Shoulder_Back_R
+    400086: B_Extra_Shoulder_Front_R
+    400088: B_Extra_Skeleton_Head_01
+    400090: B_Extra_Skeleton_Head_02
+    400092: B_Extra_Skeleton_Head_03
+    400094: B_Extra_Skeleton_Head_04
+    400096: B_Extra_Spline_01_L
+    400098: B_Extra_Spline_01_L_007
+    400100: B_Extra_Spline_01_L_008
+    400102: B_Extra_Spline_01_R
+    400104: B_Extra_Spline_02_L
+    400106: B_Extra_Spline_02_R
+    400108: B_Extra_Spline_04_L
+    400110: B_Extra_Weapon_Axe_Handle_01
+    400112: B_Extra_Weapon_Axe_Pos_01
+    400114: B_Eye_L
+    400116: B_Eye_R
+    400118: B_FingerIndex_1_L
+    400120: B_FingerIndex_1_R
+    400122: B_FingerIndex_2_L
+    400124: B_FingerIndex_2_R
+    400126: B_FingerIndex_3_L
+    400128: B_FingerIndex_3_R
+    400130: B_FingerIndex_4_L
+    400132: B_FingerIndex_4_R
+    400134: B_FingerIndex_5_L
+    400136: B_FingerIndex_5_R
+    400138: B_FingerMiddle_1_L
+    400140: B_FingerMiddle_1_R
+    400142: B_FingerMiddle_2_L
+    400144: B_FingerMiddle_2_R
+    400146: B_FingerMiddle_3_L
+    400148: B_FingerMiddle_3_R
+    400150: B_FingerMiddle_4_L
+    400152: B_FingerMiddle_4_R
+    400154: B_FingerMiddle_5_L
+    400156: B_FingerMiddle_5_R
+    400158: B_FingerPinky_1_L
+    400160: B_FingerPinky_1_R
+    400162: B_FingerPinky_2_L
+    400164: B_FingerPinky_2_R
+    400166: B_FingerPinky_3_L
+    400168: B_FingerPinky_3_R
+    400170: B_FingerPinky_4_L
+    400172: B_FingerPinky_4_R
+    400174: B_FingerPinky_5_L
+    400176: B_FingerPinky_5_R
+    400178: B_FingerRing_1_L
+    400180: B_FingerRing_1_R
+    400182: B_FingerRing_2_L
+    400184: B_FingerRing_2_R
+    400186: B_FingerRing_3_L
+    400188: B_FingerRing_3_R
+    400190: B_FingerRing_4_L
+    400192: B_FingerRing_4_R
+    400194: B_FingerRing_5_L
+    400196: B_FingerRing_5_R
+    400198: B_FingerThrumb_1_L
+    400200: B_FingerThrumb_1_R
+    400202: B_FingerThrumb_2_L
+    400204: B_FingerThrumb_2_R
+    400206: B_FingerThrumb_3_L
+    400208: B_FingerThrumb_3_R
+    400210: B_FingerThrumb_4_L
+    400212: B_FingerThrumb_4_R
+    400214: B_FingerThrumb_5_L
+    400216: B_FingerThrumb_5_R
+    400218: B_FingerThrumb_6_L
+    400220: B_FingerThrumb_6_R
+    400222: B_Foot_Heel_L
+    400224: B_Foot_Heel_R
+    400226: B_Foot_Heel_Trakcer_L
+    400228: B_Foot_Heel_Trakcer_R
+    400230: B_Foot_L
+    400232: B_Foot_R
+    400234: B_ForeArm_L
+    400236: B_ForeArm_R
+    400238: B_Hair_Cable_01_L
+    400240: B_Hair_Cable_01_R
+    400242: B_Hair_Cable_02_L
+    400244: B_Hair_Cable_02_L_001
+    400246: B_Hair_Cable_02_R
+    400248: B_Hair_Cable_02_R_001
+    400250: B_Head
+    400252: B_Head_Hexapod_01_L
+    400254: B_Head_Hexapod_01_R
+    400256: B_Head_Hexapod_02_L
+    400258: B_Head_Hexapod_02_R
+    400260: B_Head_Tip_01
+    400262: B_Head_Tip_02
+    400264: B_Hip
+    400266: B_Leg_Hydraulc_01_L
+    400268: B_Leg_Hydraulc_01_R
+    400270: B_Leg_Hydraulc_02_L
+    400272: B_Leg_Hydraulc_02_R
+    400274: B_Leg_Hydraulc_03_L
+    400276: B_Leg_Hydraulc_03_R
+    400278: B_LowerLeg_L
+    400280: B_LowerLeg_R
+    400282: B_Neck
+    400284: B_Neck_02
+    400286: B_Neck_03
+    400288: B_Neck_04
+    400290: B_Neck_Hexapod_01_L
+    400292: B_Reference
+    400294: B_Root
+    400296: B_Shoulder_Cable_01_L
+    400298: B_Shoulder_Cable_01_L_003
+    400300: B_Shoulder_Cable_01_R
+    400302: B_Shoulder_Cable_01_R_003
+    400304: B_Shoulder_Cable_01_R_004
+    400306: B_Shoulder_Cable_02_L
+    400308: B_Shoulder_Cable_02_R
+    400310: B_Shoulder_Hexapod_01_L
+    400312: B_Shoulder_Hexapod_01_R
+    400314: B_Shoulder_Hexapod_02_L
+    400316: B_Shoulder_Hexapod_02_R
+    400318: B_Shoulder_Hexapod_A_01_L
+    400320: B_Shoulder_Hexapod_A_01_R
+    400322: B_Shoulder_Hexapod_A_02_L
+    400324: B_Shoulder_Hexapod_A_02_R
+    400326: B_Shoulder_Hexapod_B_01_L
+    400328: B_Shoulder_Hexapod_B_01_R
+    400330: B_Shoulder_Hexapod_B_02_L
+    400332: B_Shoulder_Hexapod_B_02_R
+    400334: B_Shoulder_Hexapod_C_01_L
+    400336: B_Shoulder_Hexapod_C_01_R
+    400338: B_Shoulder_Hexapod_C_02_L
+    400340: B_Shoulder_Hexapod_C_02_R
+    400342: B_Shoulder_Hexapod_D_01_L
+    400344: B_Shoulder_Hexapod_D_01_R
+    400346: B_Shoulder_Hexapod_D_02_L
+    400348: B_Shoulder_Hexapod_D_02_R
+    400350: B_Shoulder_Hexapod_E_01_L
+    400352: B_Shoulder_Hexapod_E_01_R
+    400354: B_Shoulder_Hexapod_E_02_L
+    400356: B_Shoulder_Hexapod_E_02_R
+    400358: B_Shoulder_Hexapod_F_01_L
+    400360: B_Shoulder_Hexapod_F_01_R
+    400362: B_Shoulder_Hexapod_F_02_L
+    400364: B_Shoulder_Hexapod_F_02_R
+    400366: B_Shoulder_L
+    400368: B_Shoulder_L_001
+    400370: B_Shoulder_Pad_01_L
+    400372: B_Shoulder_R
+    400374: B_Spline_Head
+    400376: B_Spline_Mid
+    400378: B_Spline_Tail
+    400380: B_Toe_L
+    400382: B_Toe_R
+    400384: B_UpperLeg_L
+    400386: B_UpperLeg_R
+    400388: B_Weapon_Staff
+    400390: B_Weapon_Staff_001
+    400392: B_Weapon_Staff_002
+    400394: B_Weapon_Staff_003
+    400396: B_Weapon_Staff_004
+    400398: B_Weapon_Staff_005
+    400400: B_Weapon_Staff_006
+    400402: B_Weapon_Staff_007
+    400404: B_Weapon_Staff_008
+    400406: B_Weapon_Staff_009
+    400408: B_Weapon_Staff_011
+    400410: B_Weapon_Staff_012
+    400412: B_Weapon_Staff_013
+    400414: B_Weapon_Staff_014
+    400416: B_Wrist_01_L
+    400418: B_Wrist_01_R
+    400420: B_Wrist_02_L
+    400422: B_Wrist_02_R
+    400424: B_Wrist_CTR_L
+    400426: B_Wrist_CTR_R
+    400428: Seeker
+    400430: B_Extra_Dress_Back_01_L
+    400432: B_Extra_Dress_Back_01_M
+    400434: B_Extra_Dress_Back_01_R
+    400436: B_Extra_Dress_Back_02_L
+    400438: B_Extra_Dress_Back_02_M
+    400440: B_Extra_Dress_Back_02_R
+    400442: B_Extra_Dress_Front_01_L
+    400444: B_Extra_Dress_Front_01_M
+    400446: B_Extra_Dress_Front_01_R
+    400448: B_Extra_Dress_Front_02_L
+    400450: B_Extra_Dress_Front_02_M
+    400452: B_Extra_Dress_Front_02_R
+    400454: B_Extra_Shell_Center_01
+    400456: B_Extra_Shell_Center_02
+    400458: B_Neck_Hexapod_02_L
+    400460: B_Neck_Hexapod_02_R
+    400462: B_Weapon_Staff_01
+    400464: B_Weapon_Staff_02
+    400466: B_Weapon_Staff_03
+    400468: B_Weapon_Staff_Arm_A_01
+    400470: B_Weapon_Staff_Arm_A_02
+    400472: B_Weapon_Staff_Arm_B_01
+    400474: B_Weapon_Staff_Arm_B_02
+    400476: B_Weapon_Staff_Arm_C_01
+    400478: B_Weapon_Staff_Arm_C_02
+    400480: B_Weapon_Staff_Arm_D_01
+    400482: B_Weapon_Staff_Arm_D_02
+    400484: B_Weapon_Staff_Core_01
+    400486: B_Weapon_Staff_Core_02
+    400488: B_Weapon_Staff_Tip
+    7400000: Anim_Digging_01
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Inbetween bone
+      rotation in copied configuration does not match rotation in animation file:\n\t'B_FingerThrumb_1_R'
+      : rotation error = 41.036991 deg\n\t'B_FingerThrumb_1_L' : rotation error =
+      41.037029 deg\n\t'B_Neck' : rotation error = 8.299820 deg\n\t'B_Neck_02' : rotation
+      error = 9.535563 deg\n\t'B_Neck_04' : rotation error = 39.134579 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Anim_Digging_01' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'B_Neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'B_Neck_02' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'B_Neck_04'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'B_Eye_R'
+      has translation animation that will be discarded.\n\t'B_Eye_L' has translation
+      animation that will be discarded.\n\t'B_Head_Tip_01' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_Digging_01
+      takeName: Anim_Digging_01
+      firstFrame: 65
+      lastFrame: 203
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh_Seeker_Var1
+        weight: 1
+      - path: Mesh_Weapon
+        weight: 1
+      - path: Seeker
+        weight: 1
+      - path: Seeker/B_Reference
+        weight: 1
+      - path: Seeker/B_Reference/B_Root
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Bag_Back_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Bag_Front_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Belt_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Belt_01/B_Extra_Belt_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Belt_01/B_Extra_Belt_02/B_Extra_Belt_03
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_L/B_Extra_Dress_Back_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_M
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_M/B_Extra_Dress_Back_02_M
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Back_01_R/B_Extra_Dress_Back_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_L/B_Extra_Dress_Front_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_M
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_M/B_Extra_Dress_Front_02_M
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Dress_Front_01_R/B_Extra_Dress_Front_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02/B_Extra_Skeleton_Head_03
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Skeleton_Head_01/B_Extra_Skeleton_Head_02/B_Extra_Skeleton_Head_03/B_Extra_Skeleton_Head_04
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Weapon_Axe_Pos_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Extra_Weapon_Axe_Pos_01/B_Extra_Weapon_Axe_Handle_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Hold_Weapon_Axe_Pos_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Spline_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_Extra_Spline_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_Leg_Hydraulc_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_Heel_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Ankle_L/B_Foot_L/B_Toe_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Foot_Heel_Trakcer_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Leg_Hydraulc_03_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_L/B_LowerLeg_L/B_Leg_Hydraulc_03_L/B_Leg_Hydraulc_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_Extra_Bag_R_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_Leg_Hydraulc_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_Heel_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Ankle_R/B_Foot_R/B_Toe_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Foot_Heel_Trakcer_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Leg_Hydraulc_03_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Hip/B_UpperLeg_R/B_LowerLeg_R/B_Leg_Hydraulc_03_R/B_Leg_Hydraulc_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_PowerCore_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_PowerCore_01/B_Extra_PowerCore_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_L/B_Extra_Shell_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_01_R/B_Extra_Shell_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_L/B_Extra_Spline_04_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_03_R/B_Extra_Shell_04_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_L/B_Extra_Shell_06_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_05_R/B_Extra_Shell_06_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_Center_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Shell_Center_01/B_Extra_Shell_Center_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Spline_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Extra_Spline_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Hair_Cable_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Hair_Cable_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Hair_Cable_02_L_001
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Hair_Cable_02_R_001
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Eye_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Eye_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Hair_Cable_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Hair_Cable_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Hexapod_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Hexapod_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Tip_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head/B_Head_Tip_01/B_Head_Tip_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head_Hexapod_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_04/B_Head_Hexapod_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Neck_Hexapod_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck/B_Neck_02/B_Neck_03/B_Shoulder_Cable_01_R_004
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck_Hexapod_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Neck_Hexapod_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_A_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_B_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_C_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_D_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_E_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_L/B_Shoulder_Hexapod_F_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_A_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_B_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_C_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_D_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_E_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_Hexapod_01_R/B_Shoulder_Hexapod_F_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Arm_Hydraulc_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Extra_Shoulder_Back_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Arm_Hydraulc_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L/B_FingerIndex_4_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerIndex_1_L/B_FingerIndex_2_L/B_FingerIndex_3_L/B_FingerIndex_4_L/B_FingerIndex_5_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L/B_FingerMiddle_4_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerMiddle_1_L/B_FingerMiddle_2_L/B_FingerMiddle_3_L/B_FingerMiddle_4_L/B_FingerMiddle_5_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L/B_FingerPinky_4_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerPinky_1_L/B_FingerPinky_2_L/B_FingerPinky_3_L/B_FingerPinky_4_L/B_FingerPinky_5_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L/B_FingerRing_4_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerRing_1_L/B_FingerRing_2_L/B_FingerRing_3_L/B_FingerRing_4_L/B_FingerRing_5_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L/B_FingerThrumb_5_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_02_L/B_FingerThrumb_1_L/B_FingerThrumb_2_L/B_FingerThrumb_3_L/B_FingerThrumb_4_L/B_FingerThrumb_5_L/B_FingerThrumb_6_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_ForeArm_L/B_Wrist_01_L/B_Wrist_CTR_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_Cable_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_Cable_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Arm_L/B_Shoulder_L_001
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_A_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_B_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_C_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_D_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_E_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Hexapod_02_L/B_Shoulder_Hexapod_F_02_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_L/B_Shoulder_Pad_01_L
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Arm_Hydraulc_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Extra_Shoulder_Back_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Extra_Shoulder_Front_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Arm_Hydraulc_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R/B_FingerIndex_4_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerIndex_1_R/B_FingerIndex_2_R/B_FingerIndex_3_R/B_FingerIndex_4_R/B_FingerIndex_5_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R/B_FingerMiddle_4_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerMiddle_1_R/B_FingerMiddle_2_R/B_FingerMiddle_3_R/B_FingerMiddle_4_R/B_FingerMiddle_5_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R/B_FingerPinky_4_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerPinky_1_R/B_FingerPinky_2_R/B_FingerPinky_3_R/B_FingerPinky_4_R/B_FingerPinky_5_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R/B_FingerRing_4_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerRing_1_R/B_FingerRing_2_R/B_FingerRing_3_R/B_FingerRing_4_R/B_FingerRing_5_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R/B_FingerThrumb_5_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_02_R/B_FingerThrumb_1_R/B_FingerThrumb_2_R/B_FingerThrumb_3_R/B_FingerThrumb_4_R/B_FingerThrumb_5_R/B_FingerThrumb_6_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_A_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_A_01/B_Weapon_Staff_Arm_A_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_B_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_B_01/B_Weapon_Staff_Arm_B_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_C_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_C_01/B_Weapon_Staff_Arm_C_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_D_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Arm_D_01/B_Weapon_Staff_Arm_D_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Core_01
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Core_02
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_ForeArm_R/B_Wrist_01_R/B_Wrist_CTR_R/B_Weapon_Staff_01/B_Weapon_Staff_02/B_Weapon_Staff_03/B_Weapon_Staff_Tip
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Shoulder_Cable_01_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Arm_R/B_Shoulder_Cable_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_A_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_B_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_C_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_D_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_E_02_R
+        weight: 1
+      - path: Seeker/B_Reference/B_Root/B_Spline_Head/B_Spline_Mid/B_Spline_Tail/B_Shoulder_R/B_Shoulder_Hexapod_02_R/B_Shoulder_Hexapod_F_02_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 62b9bd0ebe760ff49969c5d9d5be835d, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: B_Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Spline_Head
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Spline_Mid
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Neck_03
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_ForeArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_ForeArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Wrist_01_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Wrist_01_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Foot_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Foot_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Head_Tip_01
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_2_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_3_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_4_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_2_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_3_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerThrumb_4_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerIndex_3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerMiddle_3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerRing_3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_FingerPinky_3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B_Spline_Tail
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Unity_Icons_Seeker_Rig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Accesories_Padding
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Accesories_Padding_01
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_ArmBand_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Arms_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Axe_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_AxeBelt_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Belt_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_ChestCavity_HR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Circle001
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Circle002
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Fingertips_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_GoldFaceMetal_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Head_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_HeadCape_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Hips_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Leather_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Leg_Line001
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Leg_Line002
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LegCover_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Legs_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_OrangeWire_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_PowerSource_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Scales_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Skull_01
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Skull_02
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Staff_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Weapon_PowerSource_LR
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Seeker
+      parentName: Unity_Icons_Seeker_Rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 4.3297806e-17, y: 0.7071068, z: 0.7071067, w: 4.32978e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Reference
+      parentName: Seeker
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: 0.5, z: -0.49999994, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Root
+      parentName: B_Reference
+      position: {x: -1.4586549, y: 0.00000016763806, z: -0.00993216}
+      rotation: {x: 0.9967764, y: -0.00000006074616, z: -0.08023029, w: -0.00000013675836}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Extra_Weapon_Axe_Pos_01
+      parentName: B_Root
+      position: {x: 0.11510431, y: 0.13319032, z: 0.14358425}
+      rotation: {x: 0.02702532, y: 0.10020528, z: 0.9851059, w: -0.1370947}
+      scale: {x: 1, y: 1.0000023, z: 1.0000002}
+    - name: B_Extra_Weapon_Axe_Handle_01
+      parentName: B_Extra_Weapon_Axe_Pos_01
+      position: {x: -0.32816932, y: 0.008804044, z: 0.00087204296}
+      rotation: {x: 0.013464189, y: 0.998175, z: 0.05886463, w: -0.0005366649}
+      scale: {x: 0.9999997, y: 0.99983096, z: 0.99999833}
+    - name: B_Spline_Head
+      parentName: B_Root
+      position: {x: -0.04050761, y: 0.000000013797873, z: 0.03575818}
+      rotation: {x: -0.00000015192568, y: -0.05044916, z: 0.00000001569484, w: 0.99872667}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: B_Spline_Mid
+      parentName: B_Spline_Head
+      position: {x: -0.05348024, y: 0.0000000030004235, z: 0.00000005236733}
+      rotation: {x: 0.00000026620188, y: -0.036916006, z: 0.0000000043556208, w: 0.99931836}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: B_Spline_Tail
+      parentName: B_Spline_Mid
+      position: {x: -0.05069003, y: 0.0000000028440768, z: 0.00000004248195}
+      rotation: {x: 0.002681837, y: 0.11794795, z: -0.0003185974, w: 0.9930161}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: B_Shoulder_Hexapod_01_L
+      parentName: B_Spline_Tail
+      position: {x: 0.00000006408517, y: -0.00000023806187, z: -0.0000006121158}
+      rotation: {x: 0.52167374, y: -0.47533166, z: -0.50677294, w: -0.49507323}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_A_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: 0.019796768, y: 0.36626968, z: -0.108315885}
+      rotation: {x: 0.44381288, y: 0.7208215, z: 0.43971646, w: -0.3001598}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: B_Shoulder_Hexapod_F_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: 0.0038695654, y: 0.36623585, z: -0.11086331}
+      rotation: {x: 0.64438605, y: 0.55582905, z: 0.22922431, w: -0.4725219}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_E_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: -0.03187454, y: 0.2793288, z: -0.14609537}
+      rotation: {x: -0.2572742, y: -0.36796233, z: -0.6630539, w: 0.59897685}
+      scale: {x: 0.9999997, y: 1, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_D_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: -0.02071416, y: 0.26645878, z: -0.14999737}
+      rotation: {x: 0.23452462, y: 0.83650553, z: 0.4030486, w: -0.28776473}
+      scale: {x: 0.9999995, y: 1, z: 1}
+    - name: B_Shoulder_Hexapod_B_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: 0.0804155, y: 0.29452106, z: -0.1269869}
+      rotation: {x: -0.41579103, y: -0.22873858, z: -0.55071765, w: 0.6866634}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_C_01_L
+      parentName: B_Shoulder_Hexapod_01_L
+      position: {x: 0.077175304, y: 0.28192028, z: -0.13344605}
+      rotation: {x: -0.59848696, y: -0.45434675, z: -0.1567551, w: 0.6409449}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_01_R
+      parentName: B_Spline_Tail
+      position: {x: 0.00000007961143, y: 0.00000022988529, z: -0.00000030669958}
+      rotation: {x: 0.52167314, y: 0.47533223, z: -0.5067723, w: 0.49507397}
+      scale: {x: 0.99999994, y: 0.9999994, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_A_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: 0.021192485, y: -0.36629695, z: -0.10795956}
+      rotation: {x: -0.4416079, y: 0.72220916, z: -0.44232887, w: -0.29621214}
+      scale: {x: 0.99999964, y: 0.99999994, z: 1}
+    - name: B_Shoulder_Hexapod_F_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: 0.0052936375, y: -0.36627418, z: -0.11067857}
+      rotation: {x: 0.6432278, y: -0.5581242, z: 0.23294552, w: 0.46956554}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_E_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: -0.030122887, y: -0.2794025, z: -0.14632636}
+      rotation: {x: 0.25370198, y: -0.37098357, z: 0.66468686, w: 0.59682316}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_D_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: -0.018929139, y: -0.2665269, z: -0.15011263}
+      rotation: {x: -0.23255803, y: 0.83789694, z: -0.40455136, w: -0.28316724}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: B_Shoulder_Hexapod_B_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: 0.08196411, y: -0.29451698, z: -0.12600274}
+      rotation: {x: 0.4127614, y: -0.23220551, z: 0.5532085, w: 0.6853241}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_C_01_R
+      parentName: B_Shoulder_Hexapod_01_R
+      position: {x: 0.078785844, y: -0.28192076, z: -0.13250114}
+      rotation: {x: 0.5976573, y: -0.4575794, z: 0.16026352, w: 0.6385471}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: B_Neck
+      parentName: B_Spline_Tail
+      position: {x: -0.4037184, y: -0.000000063671045, z: 0.000000356217}
+      rotation: {x: 0.035271734, y: 0.11428558, z: -0.004678453, w: 0.9928106}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_Neck_02
+      parentName: B_Neck
+      position: {x: -0.058765445, y: 0.000000019130676, z: 0.000000059503545}
+      rotation: {x: 0.9992758, y: -0.00007205239, z: -0.0018702248, w: 0.038004607}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: B_Neck_03
+      parentName: B_Neck_02
+      position: {x: -0.041120924, y: -4.751936e-10, z: -0.000000017640847}
+      rotation: {x: -0.000055181135, y: 0.26703832, z: -0.00009133947, w: 0.9636859}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: B_Neck_04
+      parentName: B_Neck_03
+      position: {x: -0.045558173, y: 9.2755287e-10, z: 0.000000047310348}
+      rotation: {x: 0.003984564, y: -0.42099556, z: 0.0019692634, w: 0.9070518}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_Hair_Cable_02_L_001
+      parentName: B_Neck_04
+      position: {x: -0.009468928, y: 0.058773484, z: -0.03339981}
+      rotation: {x: 0.3693651, y: -0.37481925, z: -0.5995919, w: 0.60296726}
+      scale: {x: 1.0000008, y: 0.9999999, z: 1.0000006}
+    - name: B_Hair_Cable_02_R_001
+      parentName: B_Neck_04
+      position: {x: -0.009468901, y: -0.059369702, z: -0.032328125}
+      rotation: {x: -0.37481928, y: -0.36936507, z: 0.60296726, w: 0.5995919}
+      scale: {x: 1.0000008, y: 0.99999994, z: 1.0000005}
+    - name: B_Head
+      parentName: B_Neck_04
+      position: {x: -0.095891096, y: 0.0000000061901364, z: 0.00000007389107}
+      rotation: {x: -0.004489746, y: 0.14171399, z: -0.0006426714, w: 0.9898973}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: B_Head_Tip_01
+      parentName: B_Head
+      position: {x: -0.0706907, y: 0.000009568375, z: 0.010933643}
+      rotation: {x: 0.77675456, y: -0.00044926803, z: -0.6298029, w: -0.00067126966}
+      scale: {x: 1.0000013, y: 1, z: 1.0000006}
+    - name: B_Head_Tip_02
+      parentName: B_Head_Tip_01
+      position: {x: -0.06495549, y: 0.00000000489757, z: 0.000000020238357}
+      rotation: {x: -0.45265576, y: 0.0006839265, z: 0.891685, w: -0.0004296532}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: B_Eye_L
+      parentName: B_Head
+      position: {x: -0.0027100672, y: 0.03267941, z: -0.051572934}
+      rotation: {x: -0.000000019306391, y: -0.64141935, z: -0.000000018387134, w: 0.76719046}
+      scale: {x: 1.000001, y: 1, z: 1.0000007}
+    - name: B_Eye_R
+      parentName: B_Head
+      position: {x: -0.002710063, y: -0.032679413, z: -0.051572956}
+      rotation: {x: -0.000000019306391, y: -0.64141935, z: -0.000000018387134, w: 0.76719046}
+      scale: {x: 1.000001, y: 1, z: 1.0000007}
+    - name: B_Head_Hexapod_01_R
+      parentName: B_Head
+      position: {x: 0.0022479012, y: -0.037268795, z: 0.028302683}
+      rotation: {x: -0.041628692, y: 0.90963715, z: 0.21231577, w: -0.35461155}
+      scale: {x: 1.0000012, y: 1, z: 1.0000007}
+    - name: B_Head_Hexapod_01_L
+      parentName: B_Head
+      position: {x: 0.0022478907, y: 0.037268776, z: 0.028302697}
+      rotation: {x: 0.041628815, y: 0.90963715, z: -0.21231572, w: -0.35461158}
+      scale: {x: 1.0000013, y: 1, z: 1.0000008}
+    - name: B_Hair_Cable_01_R
+      parentName: B_Head
+      position: {x: -0.006337205, y: -0.07535368, z: 0.0064669345}
+      rotation: {x: -0.07473237, y: 0.99030215, z: 0.08937188, w: -0.07569285}
+      scale: {x: 1.0000012, y: 1.000002, z: 1.0000021}
+    - name: B_Hair_Cable_01_L
+      parentName: B_Head
+      position: {x: -0.0063372287, y: 0.075353675, z: 0.006466954}
+      rotation: {x: 0.07472985, y: 0.99030226, z: -0.08937152, w: -0.07569432}
+      scale: {x: 1.0000013, y: 1.0000018, z: 1.0000018}
+    - name: B_Head_Hexapod_02_R
+      parentName: B_Neck_04
+      position: {x: -0.039925158, y: -0.016465863, z: -0.040696934}
+      rotation: {x: 0.8511746, y: 0.008942196, z: -0.47998592, w: -0.21221533}
+      scale: {x: 1.0000011, y: 0.99999994, z: 1.0000005}
+    - name: B_Head_Hexapod_02_L
+      parentName: B_Neck_04
+      position: {x: -0.039925158, y: 0.015724868, z: -0.040988926}
+      rotation: {x: 0.8492146, y: -0.013295784, z: -0.47988495, w: 0.21992764}
+      scale: {x: 1.000001, y: 0.9999999, z: 1.0000005}
+    - name: B_Shoulder_Cable_01_R_004
+      parentName: B_Neck_03
+      position: {x: -0.005249454, y: -0.023764277, z: -0.014273642}
+      rotation: {x: -0.07005104, y: 0.9938478, z: 0.045962784, w: 0.07243559}
+      scale: {x: 1.000001, y: 0.9999989, z: 0.9999992}
+    - name: B_Neck_Hexapod_01_L
+      parentName: B_Neck_03
+      position: {x: -0.005249447, y: 0.023756126, z: -0.014287195}
+      rotation: {x: 0.07005004, y: 0.9938331, z: -0.046245962, w: 0.072457}
+      scale: {x: 1.0000011, y: 1.0000014, z: 1.0000024}
+    - name: B_Shoulder_L
+      parentName: B_Spline_Tail
+      position: {x: -0.2959803, y: -0.13314427, z: -0.030205322}
+      rotation: {x: -0.4606893, y: -0.49271077, z: 0.4987336, w: 0.5443035}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_Shoulder_Hexapod_02_L
+      parentName: B_Shoulder_L
+      position: {x: -0.12520316, y: -0.0000002599968, z: -0.0000001620226}
+      rotation: {x: -0.5204581, y: 0.4740913, z: 0.52047765, w: 0.48318103}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: B_Shoulder_Hexapod_A_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: -0.024170587, y: -0.06758951, z: 0.027195286}
+      rotation: {x: -0.47154498, y: -0.43614042, z: 0.2670367, w: 0.7184137}
+      scale: {x: 0.99999976, y: 0.9999997, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_F_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: -0.019862806, y: -0.058671627, z: -0.04607354}
+      rotation: {x: -0.68411624, y: -0.24059251, z: 0.4349747, w: 0.53375775}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_E_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: -0.007755168, y: -0.052150685, z: -0.051939815}
+      rotation: {x: 0.31456918, y: 0.7301149, z: -0.48291937, w: -0.3671068}
+      scale: {x: 0.99999976, y: 0.99999964, z: 1}
+    - name: B_Shoulder_Hexapod_D_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: 0.053115282, y: -0.051818117, z: -0.011360366}
+      rotation: {x: -0.26458666, y: -0.5461276, z: 0.23949201, w: 0.75788003}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000002}
+    - name: B_Shoulder_Hexapod_B_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: -0.014908324, y: -0.06452359, z: 0.036163524}
+      rotation: {x: -0.40495396, y: -0.6144772, z: 0.62965345, w: 0.24893117}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_C_02_L
+      parentName: B_Shoulder_Hexapod_02_L
+      position: {x: 0.053710908, y: -0.05530734, z: 0.0033323418}
+      rotation: {x: -0.6202785, y: -0.1332813, z: 0.57322836, w: 0.51855564}
+      scale: {x: 0.99999946, y: 0.9999999, z: 1.0000001}
+    - name: B_Arm_L
+      parentName: B_Shoulder_L
+      position: {x: -0.12520333, y: 0.000000009734741, z: -0.00000014601999}
+      rotation: {x: -0.09163108, y: -0.03224481, z: 0.040104304, w: 0.9944625}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Shoulder_L_001
+      parentName: B_Arm_L
+      position: {x: 0.00000016063451, y: -0.000000021457671, z: 0.00000007867813}
+      rotation: {x: 0.2873395, y: 0.29491368, z: 0.66780746, w: 0.6200767}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: B_Arm_Hydraulc_01_L
+      parentName: B_Arm_L
+      position: {x: -0.2501954, y: -0.0077353516, z: -0.000999958}
+      rotation: {x: 0.20493512, y: -0.044392772, z: 0.17936142, w: 0.9611766}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: B_ForeArm_L
+      parentName: B_Arm_L
+      position: {x: -0.28834203, y: 0.00002270754, z: 0.0008112488}
+      rotation: {x: 0.19319521, y: 0.005365155, z: 0.030247256, w: 0.98067933}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: B_Wrist_CTR_L
+      parentName: B_ForeArm_L
+      position: {x: -0.4708814, y: 0.002085774, z: -0.051717862}
+      rotation: {x: -0.22437125, y: 0.0066670445, z: -0.033121902, w: 0.9739179}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000005}
+    - name: B_Arm_Hydraulc_02_L
+      parentName: B_ForeArm_L
+      position: {x: -0.0739831, y: -0.030620083, z: 0.0018918959}
+      rotation: {x: 0.011809403, y: -0.012506861, z: 0.9981994, w: -0.05746441}
+      scale: {x: 1.0000002, y: 1.000011, z: 1.000001}
+    - name: B_Wrist_01_L
+      parentName: B_ForeArm_L
+      position: {x: -0.3668837, y: 0.00000011689926, z: -0.000001156924}
+      rotation: {x: -0.22399385, y: 0.006155055, z: -0.030633096, w: 0.9740896}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: B_Wrist_02_L
+      parentName: B_Wrist_01_L
+      position: {x: -0.06194735, y: 0.0000000333786, z: -0.000000044107438}
+      rotation: {x: 0.09512921, y: -0.06644311, z: 0.0010180017, w: 0.9932445}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: B_FingerThrumb_1_L
+      parentName: B_Wrist_02_L
+      position: {x: -0.0042434526, y: -0.02486916, z: -0.007261339}
+      rotation: {x: 0.34105492, y: 0.13994898, z: 0.3417947, w: 0.86444914}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_FingerThrumb_2_L
+      parentName: B_FingerThrumb_1_L
+      position: {x: -0.014637032, y: -0.000000047683713, z: 0.000000057220458}
+      rotation: {x: 0.024629643, y: 0.045407005, z: -0.0014824078, w: 0.99866384}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_FingerThrumb_3_L
+      parentName: B_FingerThrumb_2_L
+      position: {x: -0.017351298, y: 0.000000040537365, z: -0.000000062887345}
+      rotation: {x: 0.0032939892, y: -0.030799791, z: 0.0009782129, w: 0.9995197}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: B_FingerThrumb_4_L
+      parentName: B_FingerThrumb_3_L
+      position: {x: -0.032983955, y: -0.000000046104304, z: 0.00000031884102}
+      rotation: {x: 0.0026758646, y: 0.007690318, z: 0.0007581959, w: 0.99996656}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: B_FingerThrumb_5_L
+      parentName: B_FingerThrumb_4_L
+      position: {x: -0.019869165, y: -0.0000000068693002, z: 0.0000000025887654}
+      rotation: {x: -0.0038039696, y: -0.009644557, z: -0.00060193334, w: 0.9999461}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: B_FingerThrumb_6_L
+      parentName: B_FingerThrumb_5_L
+      position: {x: -0.026303845, y: 0.0000000333786, z: -0.000000023841856}
+      rotation: {x: -0.003224982, y: -0.048044723, z: -0.02692435, w: 0.99847704}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: B_FingerIndex_1_L
+      parentName: B_Wrist_02_L
+      position: {x: -0.071789354, y: -0.036393363, z: -0.00033070505}
+      rotation: {x: -0.05548052, y: 0.09309197, z: 0.0034122032, w: 0.99410474}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: B_FingerIndex_2_L
+      parentName: B_FingerIndex_1_L
+      position: {x: -0.017097466, y: -0.000000022781238, z: 0.00000010312298}
+      rotation: {x: 0.038796138, y: -0.04060785, z: 0.004900844, w: 0.9984097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_FingerIndex_3_L
+      parentName: B_FingerIndex_2_L
+      position: {x: -0.032507602, y: -0.000000022152475, z: -0.00000010913935}
+      rotation: {x: 0.0015311167, y: -0.0004595402, z: 0.008542059, w: 0.9999623}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: B_FingerIndex_4_L
+      parentName: B_FingerIndex_3_L
+      position: {x: -0.020571744, y: 0.00000003521538, z: -0.0000001589079}
+      rotation: {x: -0.0019513444, y: 0.002751073, z: -0.0036610856, w: 0.9999876}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: B_FingerIndex_5_L
+      parentName: B_FingerIndex_4_L
+      position: {x: -0.026292017, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.020899117, y: -0.025836395, z: -0.023554275, w: 0.9991701}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: B_FingerMiddle_1_L
+      parentName: B_Wrist_02_L
+      position: {x: -0.07560008, y: -0.011463363, z: -0.0019497528}
+      rotation: {x: -0.063194565, y: 0.066863246, z: -0.0021481772, w: 0.99575657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_FingerMiddle_2_L
+      parentName: B_FingerMiddle_1_L
+      position: {x: -0.017264167, y: -0.00000007533329, z: 0.00000023038125}
+      rotation: {x: 0.03823324, y: -0.014305628, z: 0.016314771, w: 0.9990332}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: B_FingerMiddle_3_L
+      parentName: B_FingerMiddle_2_L
+      position: {x: -0.032284673, y: -0.000000048805013, z: -0.00000008726244}
+      rotation: {x: 0.009382131, y: -0.012594876, z: 0.0055699265, w: 0.9998612}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_FingerMiddle_4_L
+      parentName: B_FingerMiddle_3_L
+      position: {x: -0.020571966, y: 0.000000058116346, z: 0.0000001494406}
+      rotation: {x: -0.0019496651, y: 0.0027486556, z: -0.0036588206, w: 0.99998766}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: B_FingerMiddle_5_L
+      parentName: B_FingerMiddle_4_L
+      position: {x: -0.026292054, y: 0.000000009536743, z: 0.00000002026558}
+      rotation: {x: -0.024238529, y: 0.031096227, z: 0.0077303066, w: 0.9991926}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: B_FingerPinky_1_L
+      parentName: B_Wrist_02_L
+      position: {x: -0.07337885, y: 0.01246554, z: -0.0020292262}
+      rotation: {x: -0.034712207, y: 0.0667733, z: -0.004058178, w: 0.99715596}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: B_FingerPinky_2_L
+      parentName: B_FingerPinky_1_L
+      position: {x: -0.01726435, y: -0.00000004207331, z: -0.0000001311067}
+      rotation: {x: 0.009665862, y: -0.01383017, z: 0.016716177, w: 0.99971795}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_FingerPinky_3_L
+      parentName: B_FingerPinky_2_L
+      position: {x: -0.032284994, y: 3.1883768e-10, z: 0.000000011780121}
+      rotation: {x: 0.009383062, y: -0.0125960205, z: 0.005570364, w: 0.9998612}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: B_FingerPinky_4_L
+      parentName: B_FingerPinky_3_L
+      position: {x: -0.020571696, y: -0.00000001300174, z: 0.000000102439714}
+      rotation: {x: -0.0019456362, y: 0.0027432404, z: -0.0036579072, w: 0.99998766}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: B_FingerPinky_5_L
+      parentName: B_FingerPinky_4_L
+      position: {x: -0.026292225, y: -0.000000014305114, z: -5.9604643e-10}
+      rotation: {x: -0.017393399, y: 0.020797746, z: -0.009235724, w: 0.99958974}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: B_FingerRing_1_L
+      parentName: B_Wrist_02_L
+      position: {x: -0.060521, y: 0.034535594, z: -0.00013761887}
+      rotation: {x: -0.03471253, y: 0.06677385, z: -0.0040551904, w: 0.9971559}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: B_FingerRing_2_L
+      parentName: B_FingerRing_1_L
+      position: {x: -0.01726434, y: 0.000000018313358, z: -0.00000004397601}
+      rotation: {x: 0.009666664, y: -0.013830954, z: 0.016712017, w: 0.99971795}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: B_FingerRing_3_L
+      parentName: B_FingerRing_2_L
+      position: {x: -0.0322851, y: 0.000000017391933, z: -0.00000004737388}
+      rotation: {x: 0.0093839215, y: -0.01259737, z: 0.0055726, w: 0.9998611}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_FingerRing_4_L
+      parentName: B_FingerRing_3_L
+      position: {x: -0.020571625, y: -0.000000012359384, z: 0.00000004083516}
+      rotation: {x: -0.0019508349, y: 0.0027501087, z: -0.00365889, w: 0.99998766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_FingerRing_5_L
+      parentName: B_FingerRing_4_L
+      position: {x: -0.026292045, y: 0.000000009536743, z: -0.00000003695488}
+      rotation: {x: 0.013939088, y: -0.018339908, z: 0.0034665451, w: 0.9997287}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: B_Shoulder_Cable_01_L
+      parentName: B_Arm_L
+      position: {x: 0.017238647, y: -0.0030967286, z: 0.06563382}
+      rotation: {x: -0.21065679, y: 0.605928, z: 0.71447337, w: 0.27928996}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+    - name: B_Shoulder_Cable_02_L
+      parentName: B_Arm_L
+      position: {x: 0.04000663, y: 0.0015928501, z: 0.023822466}
+      rotation: {x: -0.2534995, y: 0.62171906, z: 0.7004193, w: 0.24210793}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: B_Extra_Shoulder_Back_L
+      parentName: B_Arm_L
+      position: {x: -0.00000010620325, y: -0.000000254583, z: -0.00000013580834}
+      rotation: {x: 0.7210446, y: -0.6742308, z: -0.11885494, w: 0.10668253}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: B_Shoulder_Pad_01_L
+      parentName: B_Shoulder_L
+      position: {x: -0.0900631, y: 0.0031023442, z: 0.0851876}
+      rotation: {x: -0.52046156, y: 0.47408754, z: 0.5204809, w: 0.48317754}
+      scale: {x: 1.0000005, y: 1, z: 1.0000005}
+    - name: B_Shoulder_R
+      parentName: B_Spline_Tail
+      position: {x: -0.29598, y: 0.13281026, z: -0.031641997}
+      rotation: {x: 0.4577423, y: -0.4953977, z: -0.4960649, w: 0.546784}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: B_Shoulder_Hexapod_02_R
+      parentName: B_Shoulder_R
+      position: {x: -0.12520312, y: 0.00000028531886, z: -0.0000003322581}
+      rotation: {x: -0.52045584, y: -0.47409374, z: 0.5204754, w: -0.48318356}
+      scale: {x: 0.99999994, y: 0.9999994, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_A_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: -0.024170795, y: 0.06758953, z: 0.027195284}
+      rotation: {x: 0.4715457, y: -0.43613863, z: -0.2670357, w: 0.7184147}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_F_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: -0.019863, y: 0.058671635, z: -0.046073537}
+      rotation: {x: 0.68411607, y: -0.24059239, z: -0.4349741, w: 0.5337584}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: B_Shoulder_Hexapod_E_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: -0.007755348, y: 0.052150693, z: -0.05193981}
+      rotation: {x: -0.31456986, y: 0.7301146, z: 0.48291865, w: -0.36710778}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000001}
+    - name: B_Shoulder_Hexapod_D_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: 0.053115085, y: 0.051818117, z: -0.011360367}
+      rotation: {x: 0.2645869, y: -0.54612696, z: -0.23949149, w: 0.75788057}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000004}
+    - name: B_Shoulder_Hexapod_B_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: -0.014908525, y: 0.064523615, z: 0.036163516}
+      rotation: {x: -0.40495458, y: 0.61447746, z: 0.62965256, w: -0.24893163}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: B_Shoulder_Hexapod_C_02_R
+      parentName: B_Shoulder_Hexapod_02_R
+      position: {x: 0.053710744, y: 0.055307355, z: 0.0033323306}
+      rotation: {x: 0.62027895, y: -0.13328145, z: -0.57322735, w: 0.5185562}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000001}
+    - name: B_Arm_R
+      parentName: B_Shoulder_R
+      position: {x: -0.12520313, y: 0.000000021992545, z: -0.00000011707157}
+      rotation: {x: 0.09164057, y: -0.0322556, z: -0.04008202, w: 0.99446225}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: B_ForeArm_R
+      parentName: B_Arm_R
+      position: {x: -0.28834227, y: -0.0000086124655, z: 0.0008155896}
+      rotation: {x: -0.19319333, y: 0.005372504, z: -0.030266456, w: 0.98067904}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: B_Arm_Hydraulc_02_R
+      parentName: B_ForeArm_R
+      position: {x: -0.07398322, y: 0.030620001, z: 0.0018916824}
+      rotation: {x: 0.011822127, y: 0.012522104, z: 0.9981979, w: 0.057483725}
+      scale: {x: 1.0000002, y: 1.0000087, z: 1.0000008}
+    - name: B_Wrist_01_R
+      parentName: B_ForeArm_R
+      position: {x: -0.3668835, y: -0.00000025749563, z: -0.000001040525}
+      rotation: {x: 0.22399393, y: 0.006154954, z: 0.030633118, w: 0.97408956}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Wrist_CTR_R
+      parentName: B_Wrist_01_R
+      position: {x: -0.07342267, y: -0.37551162, z: -0.02965522}
+      rotation: {x: -0.36639094, y: 0.33461946, z: -0.5834585, w: 0.64293367}
+      scale: {x: 0.9999999, y: 0.99999917, z: 1.0000004}
+    - name: B_Weapon_Staff
+      parentName: B_Wrist_CTR_R
+      position: {x: -0.054364793, y: -0.228143, z: -1.2113252}
+      rotation: {x: 0.06327089, y: 0.6224569, z: -0.02267898, w: 0.7797627}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999998}
+    - name: B_Weapon_Staff_001
+      parentName: B_Weapon_Staff
+      position: {x: -1.1572726, y: 0.31761128, z: 0.28662992}
+      rotation: {x: -0.063270904, y: -0.6224569, z: 0.022679, w: 0.7797627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_LH_Frame_14
+      parentName: B_Weapon_Staff_001
+      position: {x: 0.17219666, y: 0.106361374, z: 0.026770262}
+      rotation: {x: -0.03310713, y: -0.6936683, z: 0.05420323, w: 0.7174889}
+      scale: {x: 3.81, y: 3.81, z: 3.81}
+    - name: Weapon_LH_Frame_15
+      parentName: B_Weapon_Staff_001
+      position: {x: 0.18212272, y: -0.015304815, z: 0.10188094}
+      rotation: {x: 0.42605707, y: -0.607427, z: -0.40306494, w: 0.5357672}
+      scale: {x: 3.81, y: 3.81, z: 3.81}
+    - name: B_Weapon_Staff_012
+      parentName: B_Weapon_Staff_001
+      position: {x: -0.5327499, y: 0.000000086461206, z: -0.000000013506971}
+      rotation: {x: -0.00000020265149, y: -0.000000009856447, z: 0.00000007916759,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Weapon_Staff_011
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.53275, y: 0.000000108149415, z: -0.00000000558533}
+      rotation: {x: 0.000010039475, y: 0.03203354, z: -0.000009346106, w: 0.9994868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Weapon_Staff_013
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.040377058, y: 0.0000071241875, z: 0.0015794695}
+      rotation: {x: -0.00000014619441, y: -0.004347314, z: 0.00003038812, w: 0.9999906}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_Weapon_Staff_014
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.040377058, y: 0.0000071241875, z: 0.0015794695}
+      rotation: {x: -0.000000356517, y: -0.008439661, z: 0.000058986276, w: 0.9999644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Weapon_Staff_002
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.36538264, y: 0.011913276, z: 0.0024804536}
+      rotation: {x: 0.62676233, y: -0.3256419, z: -0.3273808, w: 0.6276529}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: B_Weapon_Staff_003
+      parentName: B_Weapon_Staff_002
+      position: {x: -0.055822507, y: -0.000000003153186, z: 0.0000000042899213}
+      rotation: {x: 0.43163705, y: 0.5624502, z: 0.5499925, w: -0.4414153}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+    - name: B_Weapon_Staff_004
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.36535022, y: 0.00001697707, z: 0.014376081}
+      rotation: {x: 0.8863723, y: -0.0000041531275, z: -0.4629732, w: -0.000012897663}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: B_Weapon_Staff_005
+      parentName: B_Weapon_Staff_004
+      position: {x: -0.055822495, y: 0.0000000038524357, z: 0.000000050473876}
+      rotation: {x: 0.43485406, y: 0.5584134, z: 0.55409044, w: -0.43824676}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: B_Weapon_Staff_006
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.36538315, y: -0.011878565, z: 0.0024799895}
+      rotation: {x: -0.6267565, y: -0.32563603, z: 0.32736245, w: 0.62767136}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: B_Weapon_Staff_007
+      parentName: B_Weapon_Staff_006
+      position: {x: -0.055822577, y: 0.000000007425069, z: -0.000000028003061}
+      rotation: {x: 0.43616173, y: 0.55675614, z: 0.55575585, w: -0.43694505}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: B_Weapon_Staff_008
+      parentName: B_Weapon_Staff_012
+      position: {x: -0.36541575, y: 0.000017525117, z: -0.0094156535}
+      rotation: {x: 0.0000040828254, y: -0.46052366, z: -0.000012954182, w: 0.88764745}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: B_Weapon_Staff_009
+      parentName: B_Weapon_Staff_008
+      position: {x: -0.055822495, y: -0.00000007305363, z: -0.00000014348274}
+      rotation: {x: 0.44752702, y: 0.5419133, z: 0.5702384, w: -0.4252972}
+      scale: {x: 1.0000002, y: 1, z: 0.99999976}
+    - name: B_Wrist_02_R
+      parentName: B_Wrist_01_R
+      position: {x: -0.06194738, y: 0.00000005483627, z: 0.000000113248824}
+      rotation: {x: -0.09512928, y: -0.06644302, z: -0.00101802, w: 0.9932445}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: B_FingerThrumb_1_R
+      parentName: B_Wrist_02_R
+      position: {x: -0.0042434577, y: 0.024869086, z: -0.007261423}
+      rotation: {x: -0.34105477, y: 0.13994886, z: -0.34179443, w: 0.86444926}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: B_FingerThrumb_2_R
+      parentName: B_FingerThrumb_1_R
+      position: {x: -0.0146370595, y: -0.000000052452087, z: -0.000000088214875}
+      rotation: {x: -0.024629623, y: 0.045407157, z: 0.0014822325, w: 0.99866384}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: B_FingerThrumb_3_R
+      parentName: B_FingerThrumb_2_R
+      position: {x: -0.017351136, y: -0.000000003678743, z: 0.0000003049282}
+      rotation: {x: -0.0032940113, y: -0.030799663, z: -0.000978114, w: 0.9995197}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: B_FingerThrumb_4_R
+      parentName: B_FingerThrumb_3_R
+      position: {x: -0.03298411, y: -0.00000006313646, z: 0.000000075774594}
+      rotation: {x: -0.0026758702, y: 0.0076902364, z: -0.00075823086, w: 0.99996656}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: B_FingerThrumb_5_R
+      parentName: B_FingerThrumb_4_R
+      position: {x: -0.019869084, y: 0.000000055039024, z: -0.000000041076213}
+      rotation: {x: 0.003803975, y: -0.009644476, z: 0.0006019685, w: 0.9999461}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999998}
+    - name: B_FingerThrumb_6_R
+      parentName: B_FingerThrumb_5_R
+      position: {x: -0.026303941, y: 0.000000001893298, z: -0.00000011578925}
+      rotation: {x: 0.0032249528, y: -0.048044767, z: 0.026924409, w: 0.99847704}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: B_FingerIndex_1_R
+      parentName: B_Wrist_02_R
+      position: {x: -0.07178918, y: 0.036393344, z: -0.00033060156}
+      rotation: {x: 0.055480577, y: 0.09309191, z: -0.0034121997, w: 0.99410474}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: B_FingerIndex_2_R
+      parentName: B_FingerIndex_1_R
+      position: {x: -0.01709759, y: 0.00000002135148, z: 0.000000011465452}
+      rotation: {x: -0.038795963, y: -0.040612344, z: -0.004902015, w: 0.99840957}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_FingerIndex_3_R
+      parentName: B_FingerIndex_2_R
+      position: {x: -0.032507718, y: -0.000000012505975, z: 0.00000009463073}
+      rotation: {x: -0.0015312362, y: -0.00046580154, z: -0.008541692, w: 0.9999623}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: B_FingerIndex_4_R
+      parentName: B_FingerIndex_3_R
+      position: {x: -0.02057173, y: 0.000000020917847, z: 0.00000020807649}
+      rotation: {x: 0.0019514188, y: 0.0027510433, z: 0.0036610817, w: 0.9999876}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: B_FingerIndex_5_R
+      parentName: B_FingerIndex_4_R
+      position: {x: -0.026292037, y: -0.0000000047683715, z: -0.000000063776966}
+      rotation: {x: -0.02089912, y: -0.025836272, z: 0.023554245, w: 0.9991701}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: B_FingerMiddle_1_R
+      parentName: B_Wrist_02_R
+      position: {x: -0.075599775, y: 0.011463367, z: -0.0019497494}
+      rotation: {x: 0.063194595, y: 0.06686317, z: 0.002148213, w: 0.99575657}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: B_FingerMiddle_2_R
+      parentName: B_FingerMiddle_1_R
+      position: {x: -0.017264256, y: 0.000000008811878, z: -0.000000014344758}
+      rotation: {x: -0.038233235, y: -0.014305569, z: -0.016314825, w: 0.9990332}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: B_FingerMiddle_3_R
+      parentName: B_FingerMiddle_2_R
+      position: {x: -0.03228476, y: -0.000000009114548, z: -0.000000056605572}
+      rotation: {x: -0.009382109, y: -0.012594968, z: -0.0055699092, w: 0.9998612}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: B_FingerMiddle_4_R
+      parentName: B_FingerMiddle_3_R
+      position: {x: -0.020571845, y: 0.000000010511576, z: 0.00000023693559}
+      rotation: {x: 0.0019496869, y: 0.0027486966, z: 0.0036587846, w: 0.99998766}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: B_FingerMiddle_5_R
+      parentName: B_FingerMiddle_4_R
+      position: {x: -0.026292114, y: -0.000000047683713, z: 0.000000035762785}
+      rotation: {x: 0.024238534, y: 0.031096166, z: -0.0077302726, w: 0.9991926}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: B_FingerPinky_1_R
+      parentName: B_Wrist_02_R
+      position: {x: -0.07337855, y: -0.012465511, z: -0.002029225}
+      rotation: {x: 0.034712233, y: 0.06677318, z: 0.004058184, w: 0.9971559}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: B_FingerPinky_2_R
+      parentName: B_FingerPinky_1_R
+      position: {x: -0.017264465, y: -0.000000029612137, z: 0.000000069535325}
+      rotation: {x: -0.009665844, y: -0.013830261, z: -0.016716158, w: 0.99971795}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: B_FingerPinky_3_R
+      parentName: B_FingerPinky_2_R
+      position: {x: -0.03228481, y: 0.000000008836592, z: 0.000000053350963}
+      rotation: {x: -0.009383052, y: -0.012595905, z: -0.0055704056, w: 0.9998612}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: B_FingerPinky_4_R
+      parentName: B_FingerPinky_3_R
+      position: {x: -0.020571727, y: -0.000000035177514, z: -0.000000099256674}
+      rotation: {x: 0.0019455968, y: 0.002743256, z: 0.0036579315, w: 0.99998766}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: B_FingerPinky_5_R
+      parentName: B_FingerPinky_4_R
+      position: {x: -0.02629229, y: 0.000000019073486, z: 0.00000012636184}
+      rotation: {x: 0.017393397, y: 0.020797776, z: 0.009235743, w: 0.99958974}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: B_FingerRing_1_R
+      parentName: B_Wrist_02_R
+      position: {x: -0.0605209, y: -0.034535605, z: -0.00013772944}
+      rotation: {x: 0.03471254, y: 0.06677382, z: 0.0040551205, w: 0.9971559}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: B_FingerRing_2_R
+      parentName: B_FingerRing_1_R
+      position: {x: -0.017264277, y: -1.6813448e-10, z: 0.0000000031963734}
+      rotation: {x: -0.009666646, y: -0.013831022, z: -0.016711902, w: 0.99971795}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: B_FingerRing_3_R
+      parentName: B_FingerRing_2_R
+      position: {x: -0.03228509, y: 0.00000003376835, z: -0.00000020818133}
+      rotation: {x: -0.009383961, y: -0.012597259, z: -0.0055726347, w: 0.9998611}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: B_FingerRing_4_R
+      parentName: B_FingerRing_3_R
+      position: {x: -0.020571593, y: 0.000000004273143, z: 0.00000015035229}
+      rotation: {x: 0.0019508799, y: 0.002750056, z: 0.0036588693, w: 0.99998766}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: B_FingerRing_5_R
+      parentName: B_FingerRing_4_R
+      position: {x: -0.02629196, y: 0, z: 0.00000012427569}
+      rotation: {x: -0.013939093, y: -0.01833995, z: -0.003466534, w: 0.9997287}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: B_Arm_Hydraulc_01_R
+      parentName: B_Arm_R
+      position: {x: -0.25019565, y: 0.007735343, z: -0.0010000659}
+      rotation: {x: -0.20494784, y: -0.044378884, z: -0.17938328, w: 0.96117043}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1.0000005}
+    - name: B_Shoulder_Cable_01_R
+      parentName: B_Arm_R
+      position: {x: 0.017238414, y: 0.0030964373, z: 0.065633684}
+      rotation: {x: -0.21065672, y: -0.6059279, z: 0.7144738, w: -0.2792891}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: B_Extra_Shoulder_Front_R
+      parentName: B_Arm_R
+      position: {x: -0.00000035786346, y: 0.00000020432532, z: -0.00000026088512}
+      rotation: {x: -0.28733978, y: 0.2949141, z: -0.6678074, w: 0.62007654}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: B_Shoulder_Cable_02_R
+      parentName: B_Arm_R
+      position: {x: 0.040006407, y: -0.0015929149, z: 0.02382218}
+      rotation: {x: -0.25349933, y: -0.6217191, z: 0.70041937, w: -0.24210776}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.9999996}
+    - name: B_Extra_Shoulder_Back_R
+      parentName: B_Arm_R
+      position: {x: -0.0000004867483, y: 0.00000018808593, z: -0.0000003457612}
+      rotation: {x: 0.72104484, y: 0.6742304, z: -0.11885499, w: -0.10668341}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000006}
+    - name: B_Shoulder_Cable_01_R_003
+      parentName: B_Spline_Tail
+      position: {x: -0.39023834, y: 0.0078007593, z: 0.053615425}
+      rotation: {x: 0.99134344, y: -0.07242346, z: 0.071602434, w: 0.08286255}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: B_Extra_PowerCore_02
+      parentName: B_Spline_Tail
+      position: {x: -0.23175547, y: 0.0008453231, z: 0.15257584}
+      rotation: {x: 0.9987721, y: -0.00013368389, z: -0.049467605, w: 0.0026975637}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: B_Extra_PowerCore_01
+      parentName: B_Extra_PowerCore_02
+      position: {x: -0, y: -2.3283064e-12, z: 0}
+      rotation: {x: 8.410599e-11, y: -0.000000008322378, z: 5.190754e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_Extra_Spline_01_L
+      parentName: B_Spline_Tail
+      position: {x: -0.021705074, y: -0.055683516, z: -0.0041304766}
+      rotation: {x: -0.012057687, y: 0.9943096, z: -0.013348044, w: 0.10499938}
+      scale: {x: 1.0000004, y: 1, z: 1.0000015}
+    - name: B_Extra_Spline_01_R
+      parentName: B_Spline_Tail
+      position: {x: -0.021705052, y: 0.05563563, z: -0.004731801}
+      rotation: {x: 0.011489373, y: 0.99436724, z: 0.007976688, w: 0.10506282}
+      scale: {x: 1.0000004, y: 1, z: 0.99999976}
+    - name: B_Shoulder_Cable_01_L_003
+      parentName: B_Spline_Tail
+      position: {x: -0.39023834, y: -0.007221027, z: 0.053696588}
+      rotation: {x: 0.9917766, y: 0.072808996, z: 0.071210235, w: -0.07750589}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: B_Extra_Shell_01_L
+      parentName: B_Spline_Tail
+      position: {x: -0.0048479224, y: -0.09386686, z: 0.05845874}
+      rotation: {x: -0.025565246, y: 0.99600637, z: -0.06737119, w: -0.05271484}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000043}
+    - name: B_Extra_Shell_02_L
+      parentName: B_Extra_Shell_01_L
+      position: {x: -0.040901385, y: -0.0013179231, z: -0.0055235093}
+      rotation: {x: 0.08983005, y: 0.032554403, z: -0.059978597, w: 0.9936163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Extra_Shell_01_R
+      parentName: B_Spline_Tail
+      position: {x: -0.00484791, y: 0.09449293, z: 0.057441246}
+      rotation: {x: 0.025851678, y: 0.9963557, z: 0.06198995, w: -0.052575734}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000048}
+    - name: B_Extra_Shell_02_R
+      parentName: B_Extra_Shell_01_R
+      position: {x: -0.04090136, y: 0.0013179295, z: -0.0055234944}
+      rotation: {x: -0.08982987, y: 0.032554444, z: 0.059978433, w: 0.99361634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Extra_Shell_03_L
+      parentName: B_Spline_Tail
+      position: {x: -0.004297631, y: -0.07477424, z: 0.090234615}
+      rotation: {x: -0.04022795, y: 0.9500158, z: -0.30647787, w: -0.04385241}
+      scale: {x: 1.0000001, y: 0.99999636, z: 0.999983}
+    - name: B_Extra_Spline_04_L
+      parentName: B_Extra_Shell_03_L
+      position: {x: -0.050246153, y: 0.0033795165, z: 0.0032010442}
+      rotation: {x: -0.022840872, y: -0.17338017, z: 0.005908757, w: 0.98457235}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: B_Extra_Shell_03_R
+      parentName: B_Spline_Tail
+      position: {x: -0.004297619, y: 0.07574471, z: 0.089421526}
+      rotation: {x: 0.040585596, y: 0.951647, z: 0.3013462, w: -0.043718718}
+      scale: {x: 1.0000005, y: 1.0000025, z: 1.0000112}
+    - name: B_Extra_Shell_04_R
+      parentName: B_Extra_Shell_03_R
+      position: {x: -0.05024606, y: -0.0033794967, z: 0.0032010495}
+      rotation: {x: 0.022840943, y: -0.17337573, z: -0.005908872, w: 0.9845731}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_Extra_Shell_05_L
+      parentName: B_Spline_Tail
+      position: {x: -0.0038447618, y: -0.044533744, z: 0.117043}
+      rotation: {x: -0.04603342, y: 0.91236526, z: -0.4050597, w: -0.037379697}
+      scale: {x: 1.0000002, y: 0.9999976, z: 0.9999911}
+    - name: B_Extra_Shell_06_L
+      parentName: B_Extra_Shell_05_L
+      position: {x: -0.05389618, y: 0.0005209948, z: 0.002933261}
+      rotation: {x: 0.035456114, y: -0.1299024, z: 0.0053063747, w: 0.99087846}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: B_Extra_Shell_05_R
+      parentName: B_Spline_Tail
+      position: {x: -0.003844761, y: 0.045795597, z: 0.116555065}
+      rotation: {x: 0.046225265, y: 0.9145411, z: 0.40012473, w: -0.037121046}
+      scale: {x: 1.0000002, y: 0.99999696, z: 0.99998957}
+    - name: B_Extra_Shell_06_R
+      parentName: B_Extra_Shell_05_R
+      position: {x: -0.053896036, y: -0.0005209802, z: 0.0029332438}
+      rotation: {x: -0.035456024, y: -0.1299026, z: -0.0053063743, w: 0.9908784}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: B_Extra_Spline_01_L_007
+      parentName: B_Spline_Tail
+      position: {x: 0.0056390893, y: -0.0004786897, z: 0.13300197}
+      rotation: {x: -0.055856433, y: 0.7272064, z: -0.68384725, w: -0.020097535}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000007}
+    - name: B_Extra_Spline_01_L_008
+      parentName: B_Extra_Spline_01_L_007
+      position: {x: -0.039094586, y: 0.00043103725, z: 0.0021589196}
+      rotation: {x: -0.043458745, y: -0.0014457868, z: 0.0037833203, w: 0.99904704}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_Hair_Cable_02_R
+      parentName: B_Spline_Tail
+      position: {x: -0.44429895, y: 0.080648676, z: 0.03258088}
+      rotation: {x: 0.98520666, y: 0.10850615, z: -0.061855055, w: -0.11733792}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: B_Hair_Cable_02_L
+      parentName: B_Spline_Tail
+      position: {x: -0.44429895, y: -0.08029192, z: 0.033450242}
+      rotation: {x: 0.9845585, y: -0.10883876, z: -0.06126814, w: 0.12265759}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: B_Hip
+      parentName: B_Root
+      position: {x: -0.00000017762184, y: 1.72e-14, z: 0.000000014305115}
+      rotation: {x: 0.09187127, y: -0.017029792, z: 0.99562407, w: 0.0015714249}
+      scale: {x: 1.0000004, y: 1, z: 1.0000099}
+    - name: B_Extra_Hold_Weapon_Axe_Pos_01
+      parentName: B_Hip
+      position: {x: -0.0868872, y: -0.13866028, z: 0.15757139}
+      rotation: {x: 0.027455604, y: 0.10026175, z: 0.9850828, w: -0.13713372}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_UpperLeg_L
+      parentName: B_Hip
+      position: {x: -0.11562463, y: 0.15082498, z: -0.009715347}
+      rotation: {x: 0.017083768, y: 0.04641237, z: 0.00079377874, w: 0.99877596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_LowerLeg_L
+      parentName: B_UpperLeg_L
+      position: {x: -0.65082586, y: 0.0012882468, z: -0.066277586}
+      rotation: {x: -0.0018730994, y: -0.077016115, z: -0.009584392, w: 0.99698204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Ankle_L
+      parentName: B_LowerLeg_L
+      position: {x: -0.53096384, y: 0.000000812174, z: -0.00000025149473}
+      rotation: {x: -0.000154675, y: 0.24825095, z: 0.009449387, w: 0.9686497}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Foot_L
+      parentName: B_Ankle_L
+      position: {x: -0.13284752, y: -8.6025537e-10, z: -0.0000000024648759}
+      rotation: {x: 0.00025920742, y: 0.49384135, z: 0.00081950525, w: 0.8695516}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: B_Toe_L
+      parentName: B_Foot_L
+      position: {x: -0.12229913, y: 0.0000000085809, z: 0.0000000012019882}
+      rotation: {x: 0.000000005321035, y: 0.060329385, z: -0.00042388527, w: 0.9981784}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: B_Foot_Heel_L
+      parentName: B_Ankle_L
+      position: {x: -0.056038048, y: -0.0000023565383, z: -0.08148457}
+      rotation: {x: -0.0003323565, y: 0.9817265, z: 0.00031328175, w: 0.19029675}
+      scale: {x: 0.99999905, y: 0.99999994, z: 0.9999788}
+    - name: B_Foot_Heel_Trakcer_L
+      parentName: B_LowerLeg_L
+      position: {x: -0.39795256, y: 0.0028742736, z: -0.07091233}
+      rotation: {x: -0.009567323, y: 0.9990549, z: 0.0022089256, w: -0.042343143}
+      scale: {x: 0.9999992, y: 1.000001, z: 1.0000002}
+    - name: B_Leg_Hydraulc_03_L
+      parentName: B_LowerLeg_L
+      position: {x: -0.035165854, y: 0.00036051776, z: -0.040459804}
+      rotation: {x: 0.0054082274, y: 0.9380865, z: 0.008357594, w: -0.34625798}
+      scale: {x: 0.9999992, y: 1, z: 0.99997985}
+    - name: B_Leg_Hydraulc_02_L
+      parentName: B_Leg_Hydraulc_03_L
+      position: {x: -0.05274407, y: 0.00000001829172, z: -0.000000048388014}
+      rotation: {x: -0.003766179, y: -0.4704156, z: -0.0036499721, w: 0.8824294}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: B_Leg_Hydraulc_01_L
+      parentName: B_UpperLeg_L
+      position: {x: -0.49783805, y: -0.002810061, z: -0.08012353}
+      rotation: {x: -0.05080235, y: -0.19334577, z: -0.019049527, w: 0.97962934}
+      scale: {x: 0.99999917, y: 1, z: 0.9999803}
+    - name: B_UpperLeg_R
+      parentName: B_Hip
+      position: {x: -0.11562464, y: -0.14980802, z: -0.02000274}
+      rotation: {x: 0.017083786, y: 0.04641237, z: 0.000793947, w: 0.99877596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_LowerLeg_R
+      parentName: B_UpperLeg_R
+      position: {x: -0.65082586, y: -0.0012878857, z: -0.06627804}
+      rotation: {x: 0.0018734125, y: -0.07701489, z: 0.009584533, w: 0.9969821}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Ankle_R
+      parentName: B_LowerLeg_R
+      position: {x: -0.5309637, y: -0.0000009247771, z: -0.0000010629312}
+      rotation: {x: 0.00015473767, y: 0.2482498, z: -0.00944951, w: 0.96865}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Foot_R
+      parentName: B_Ankle_R
+      position: {x: -0.13284752, y: 0.0000000043281196, z: -0.000000007899345}
+      rotation: {x: -0.0002591421, y: 0.49384135, z: -0.00081948866, w: 0.8695516}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: B_Toe_R
+      parentName: B_Foot_R
+      position: {x: -0.12229913, y: 0.0000000070928214, z: -8.789357e-11}
+      rotation: {x: 0.000000003793728, y: 0.060329407, z: 0.00042388513, w: 0.9981784}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: B_Foot_Heel_R
+      parentName: B_Ankle_R
+      position: {x: -0.05603804, y: 0.0000023686075, z: -0.08148459}
+      rotation: {x: 0.00033246184, y: 0.9817265, z: -0.00031317634, w: 0.19029662}
+      scale: {x: 0.99999905, y: 0.99999994, z: 0.99997854}
+    - name: B_Foot_Heel_Trakcer_R
+      parentName: B_LowerLeg_R
+      position: {x: -0.39795133, y: -0.002874195, z: -0.07090928}
+      rotation: {x: 0.009556209, y: 0.9990554, z: -0.0022086878, w: -0.042334195}
+      scale: {x: 0.9999995, y: 1.0000007, z: 0.9999962}
+    - name: B_Leg_Hydraulc_03_R
+      parentName: B_LowerLeg_R
+      position: {x: -0.035165183, y: -0.00036044343, z: -0.0404496}
+      rotation: {x: -0.005407962, y: 0.9380899, z: -0.008357627, w: -0.34624887}
+      scale: {x: 0.9999993, y: 1, z: 0.99997985}
+    - name: B_Leg_Hydraulc_02_R
+      parentName: B_Leg_Hydraulc_03_R
+      position: {x: -0.052744012, y: 0.000000012435904, z: 0.0000000051700755}
+      rotation: {x: 0.003766064, y: -0.4704157, z: 0.0036499302, w: 0.88242936}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: B_Leg_Hydraulc_01_R
+      parentName: B_UpperLeg_R
+      position: {x: -0.49783665, y: 0.002810211, z: -0.08013168}
+      rotation: {x: 0.05080255, y: -0.1933537, z: 0.019049753, w: 0.9796278}
+      scale: {x: 0.9999992, y: 1, z: 0.9999801}
+    - name: B_Extra_Bag_R_01
+      parentName: B_UpperLeg_R
+      position: {x: 0.12610218, y: -0.07694276, z: -0.02344851}
+      rotation: {x: 0.18000443, y: 0.060871415, z: 0.21155658, w: 0.9587163}
+      scale: {x: 0.99999917, y: 1, z: 0.9999802}
+    - name: B_Extra_Spline_02_L
+      parentName: B_Hip
+      position: {x: 0.025373714, y: 0.050565843, z: 0.03819088}
+      rotation: {x: 0.16498707, y: -0.0016708956, z: 0.986123, w: -0.01837973}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: B_Extra_Spline_02_R
+      parentName: B_Hip
+      position: {x: 0.025373697, y: -0.05305828, z: 0.034644954}
+      rotation: {x: 0.16552027, y: -0.032050695, z: 0.98560333, w: 0.012723354}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000011}
+    - name: B_Extra_Belt_01
+      parentName: B_Root
+      position: {x: 0.070098594, y: -0.13220048, z: -0.20444754}
+      rotation: {x: 0.17041057, y: -0.2329425, z: 0.9568597, w: 0.033429008}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+    - name: B_Extra_Belt_02
+      parentName: B_Extra_Belt_01
+      position: {x: -0.12888134, y: 0.000000043809894, z: -0.000000009153205}
+      rotation: {x: -0.08102126, y: 0.07980575, z: 0.019945849, w: 0.99331206}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: B_Extra_Belt_03
+      parentName: B_Extra_Belt_02
+      position: {x: -0.18073088, y: 0.000000021053049, z: -0.00000000996859}
+      rotation: {x: -0.023007143, y: 0.013388572, z: 0.017585734, w: 0.999491}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: B_Extra_Skeleton_Head_01
+      parentName: B_Root
+      position: {x: -0.038042374, y: -0.11090161, z: 0.07576293}
+      rotation: {x: -0.46757814, y: -0.16478966, z: 0.8497745, w: 0.17916033}
+      scale: {x: 0.9999997, y: 1, z: 1.0000001}
+    - name: B_Extra_Skeleton_Head_02
+      parentName: B_Extra_Skeleton_Head_01
+      position: {x: -0.13951723, y: -0.000000004019185, z: -0.00000021141169}
+      rotation: {x: 0.008405511, y: -0.5570074, z: 0.049321864, w: 0.8289991}
+      scale: {x: 1.0000002, y: 1, z: 0.9999998}
+    - name: B_Extra_Skeleton_Head_03
+      parentName: B_Extra_Skeleton_Head_02
+      position: {x: -0.14555274, y: 0.022964533, z: 0.036363795}
+      rotation: {x: -0.0031068649, y: 0.0051371306, z: -0.023891905, w: 0.9996965}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_Extra_Skeleton_Head_04
+      parentName: B_Extra_Skeleton_Head_03
+      position: {x: -0.033108097, y: 0.000000016711866, z: 0.000000002660869}
+      rotation: {x: 0.03967872, y: -0.045013607, z: 0.04591045, w: 0.9971417}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Extra_Bag_Front_01
+      parentName: B_Root
+      position: {x: -0.016914142, y: -0.000000010530927, z: 0.10817655}
+      rotation: {x: -0.052001286, y: -0.0000000972658, z: 0.99864703, w: 0.00000012755252}
+      scale: {x: 1, y: 1, z: 0.9999979}
+    - name: B_Extra_Dress__Front_01_M
+      parentName: B_Root
+      position: {x: 0.07051637, y: -0.00000001917307, z: 0.08483629}
+      rotation: {x: -0.12567954, y: -2.4741477e-18, z: 0.9920709, w: -6.008534e-17}
+      scale: {x: 1, y: 1, z: 0.99999976}
+    - name: B_Extra_Dress__Front_02_M
+      parentName: B_Extra_Dress__Front_01_M
+      position: {x: -0.14771423, y: 0.000000011152597, z: -0.0000000055282423}
+      rotation: {x: -1.0629714e-17, y: -0.20492314, z: 2.8600094e-17, w: 0.97877806}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: B_Extra_Dress__Front_01_L
+      parentName: B_Root
+      position: {x: 0.07041873, y: -0.09901141, z: 0.084852286}
+      rotation: {x: -0.12567954, y: -2.4741477e-18, z: 0.9920709, w: -6.008534e-17}
+      scale: {x: 0.99999946, y: 1, z: 0.9999934}
+    - name: B_Extra_Dress__Front_02_L
+      parentName: B_Extra_Dress__Front_01_L
+      position: {x: -0.1477143, y: 0.000000028610229, z: -0.000000042470404}
+      rotation: {x: -1.0629714e-17, y: -0.20492314, z: 2.8600094e-17, w: 0.97877806}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: B_Extra_Dress__Front_01_R
+      parentName: B_Root
+      position: {x: 0.07049994, y: 0.10116785, z: 0.08483917}
+      rotation: {x: -0.12567954, y: -2.4741477e-18, z: 0.9920709, w: -6.008534e-17}
+      scale: {x: 1, y: 1, z: 0.99999976}
+    - name: B_Extra_Dress__Front_02_R
+      parentName: B_Extra_Dress__Front_01_R
+      position: {x: -0.14771421, y: 0.000000019073486, z: -0.000000012385574}
+      rotation: {x: -1.0629714e-17, y: -0.20492314, z: 2.8600094e-17, w: 0.97877806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_Extra_Dress__Back_01_M
+      parentName: B_Root
+      position: {x: 0.03285879, y: 0.000000046451, z: -0.14758472}
+      rotation: {x: 0.28241935, y: -0.0024727054, z: 0.95928335, w: 0.0029452061}
+      scale: {x: 0.99999994, y: 1, z: 1.0000004}
+    - name: B_Extra_Dress__Back_02_M
+      parentName: B_Extra_Dress__Back_01_M
+      position: {x: -0.14771485, y: 0.0000000111885425, z: -0.0000000065747563}
+      rotation: {x: 0.0000000030352747, y: 0.20483772, z: 0.000000007963012, w: 0.97879595}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: B_Extra_Dress__Back_01_L
+      parentName: B_Root
+      position: {x: 0.032761123, y: -0.096966185, z: -0.14756893}
+      rotation: {x: 0.28241935, y: -0.0024727054, z: 0.95928335, w: 0.0029452061}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000006}
+    - name: B_Extra_Dress__Back_02_L
+      parentName: B_Extra_Dress__Back_01_L
+      position: {x: -0.1479317, y: 0.0000000148630965, z: 0.000000045797414}
+      rotation: {x: 0.0000000030352747, y: 0.20483772, z: 0.000000007963012, w: 0.97879595}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: B_Extra_Dress__Back_01_R
+      parentName: B_Root
+      position: {x: 0.03284232, y: 0.09963506, z: -0.14758207}
+      rotation: {x: 0.28241935, y: -0.0024727054, z: 0.95928335, w: 0.0029452061}
+      scale: {x: 0.99999964, y: 1, z: 0.9999995}
+    - name: B_Extra_Dress__Back_02_R
+      parentName: B_Extra_Dress__Back_01_R
+      position: {x: -0.1477147, y: 0.000000013595354, z: -0.000000039329443}
+      rotation: {x: 0.0000000030352747, y: 0.20483772, z: 0.000000007963012, w: 0.97879595}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: B_Extra_Bag_Back_01
+      parentName: B_Root
+      position: {x: -0.053383093, y: -0.000000041764647, z: -0.11690952}
+      rotation: {x: 0.21105854, y: -0.00000019021819, z: 0.97747344, w: 0.00000016516253}
+      scale: {x: 1.0000001, y: 1, z: 1.000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0e3882b58add7194b81411f12371fb7d,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

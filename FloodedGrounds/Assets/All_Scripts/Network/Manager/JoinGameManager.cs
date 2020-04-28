@@ -34,7 +34,7 @@ public class JoinGameManager : MonoBehaviour
         
         //Calls the function to select a random character
         string randChar = randCharacter();
-        Main.setCharacter("Max");
+        Main.setCharacter("Bog_lord");
         Main.gameState = Main.GameState.GAME;
     }
 
