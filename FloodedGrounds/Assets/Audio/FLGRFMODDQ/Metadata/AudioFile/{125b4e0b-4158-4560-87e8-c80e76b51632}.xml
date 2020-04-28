@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{125b4e0b-4158-4560-87e8-c80e76b51632}">
+        <property name="assetPath">
+            <value>Hard Splintering Wood Impact.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>7.5464852607709751</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c895a100-9fb0-468d-9ae8-a847aa332262}</destination>
+        </relationship>
+    </object>
+</objects>

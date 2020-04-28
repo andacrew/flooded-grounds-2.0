@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="UiMixerView" id="{787a67d9-4dfc-4f0b-833c-29b7a031fe06}">
+        <property name="name">
+            <value>Ambience Sidechains</value>
+        </property>
+        <relationship name="assignedStrips">
+            <destination>{99da4b95-d29d-4d62-b799-3f144ea833d8}</destination>
+            <destination>{77af0004-78a3-4118-b092-1b8922fb3c4c}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{d6503f3e-a3a4-46c9-b051-a857216f4bd2}</destination>
+        </relationship>
+    </object>
+</objects>

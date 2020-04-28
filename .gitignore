@@ -72,3 +72,7 @@ crashlytics-build.properties
 Icon?
 ehthumbs.db
 Thumbs.db
+
+#FMOD ignores
+/FloodedGrounds/Assets/FMODStudioCache.asset
+/FloodedGrounds/fmod_editor.log

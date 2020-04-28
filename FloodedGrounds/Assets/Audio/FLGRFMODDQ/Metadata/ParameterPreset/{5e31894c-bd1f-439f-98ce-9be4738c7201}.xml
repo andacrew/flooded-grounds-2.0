@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{5e31894c-bd1f-439f-98ce-9be4738c7201}">
+		<property name="name">
+			<value>MonsterContact</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5a426b06-4684-4db8-ba50-0c7ecaa43539}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{71ba8360-de26-4e67-a546-3b8c4b64dec9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{71ba8360-de26-4e67-a546-3b8c4b64dec9}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.4400000274181366</value>
+		</property>
+	</object>
+</objects>

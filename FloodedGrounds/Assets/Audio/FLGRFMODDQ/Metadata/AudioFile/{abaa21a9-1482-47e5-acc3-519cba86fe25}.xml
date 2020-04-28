@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{abaa21a9-1482-47e5-acc3-519cba86fe25}">
+        <property name="assetPath">
+            <value>440962__tec-studio__dark-wind.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>67.754807256235821</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c895a100-9fb0-468d-9ae8-a847aa332262}</destination>
+        </relationship>
+    </object>
+</objects>
