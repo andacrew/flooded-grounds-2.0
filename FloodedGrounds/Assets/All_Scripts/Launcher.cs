@@ -103,7 +103,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         Debug.Log("Launcher: ConnectedToMaster called");
         //room specified here: 
-        PhotonNetwork.JoinRoom("Test Room");
+        PhotonNetwork.JoinRandomRoom();
         isConnecting = false; 
     }
 
@@ -112,7 +112,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         Debug.Log("No random room available, either full or no rooms created");
         RoomOptions roomOptions = new RoomOptions (){ IsVisible = true, MaxPlayers = maxPlayersPerRoom};
         int randomNum = Random.Range(0, 1000000);
-        PhotonNetwork.CreateRoom(randomNum.ToString(), roomOptions, TypedLobby.Default);  
+        PhotonNetwork.CreateRoom("Test Room", roomOptions, TypedLobby.Default);  
     }
 
     public override void OnJoinedRoom()
