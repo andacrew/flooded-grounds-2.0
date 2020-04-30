@@ -36,8 +36,22 @@ namespace FloodedGrounds
             }    
         }
 
+            
+        public override void OnPlayerLeftRoom(Player other)
+        {
+            Debug.LogFormat("OnPlayerLeftRoom() {0}", other.NickName); // seen when other disconnects
 
 
+            if (PhotonNetwork.IsMasterClient)
+            {
+                Debug.LogFormat("OnPlayerLeftRoom IsMasterClient {0}", PhotonNetwork.IsMasterClient); // called before OnPlayerLeftRoom
+
+
+                LoadArena();
+            }
+        }
+
+        //When a player leaves the room load the launcher/initial scene 
         public override void OnLeftRoom()
         {
             SceneManager.LoadScene(0);
@@ -75,6 +89,7 @@ namespace FloodedGrounds
 
         #endregion
 
+    
     }
 }
 

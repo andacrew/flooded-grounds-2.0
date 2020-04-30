@@ -59,22 +59,17 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
         }
     protected GameObject GetCharacterPrefab(Player newPlayer)
     {
-        return isMonster(newPlayer) ? m_Monster : m_Human;
-        
+        if(PhotonNetwork.PlayerList.Length == 1){
+            return m_Monster;
+        }
+        return m_Human;
             
     }
      protected bool isMonster(Player newPlayer){
-         if(newPlayer.CustomProperties != null)
-         {
-           var role = newPlayer.CustomProperties["Role"];
-            if("Monster".Equals(role))
-            {
-                Debug.Log("This player is the monster.");
-                return true;
-                
-            }
-         }
-            return false;
+         if(newPlayer.CustomProperties == null) return false;  
+         var role = newPlayer.CustomProperties["Role"];
+         Debug.LogFormat("This player is a {0}", role);
+         return role.Equals("Monster"); 
      }
     
         /// <summary>
@@ -158,7 +153,15 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
         public override void OnPlayerEnteredRoom(Player newPlayer)
         {
             base.OnPlayerEnteredRoom(newPlayer);
-
+            
+            if(PhotonNetwork.PlayerList.Length == 2)
+            {
+                Hashtable hash = new Hashtable();
+                hash.Add("Role", "Monster");
+                newPlayer.SetCustomProperties(hash);
+            }
+                
+        
             SpawnPlayer(newPlayer);
         }
 

@@ -9,8 +9,8 @@ public class KirinController : MonoBehaviour
     public float turnSpeed = 10f;
     public KeyCode runKey = KeyCode.LeftShift;
     public KeyCode jumpKey = KeyCode.Space;
-    public KeyCode slashKey = KeyCode.E;
-    public KeyCode fireWeapon = KeyCode.Mouse0;
+    public KeyCode slashKey = KeyCode.Mouse0;
+    public KeyCode fireWeapon = KeyCode.E;
 
     private float turnSpeedMultiplier;
     private float speed = 0f;
