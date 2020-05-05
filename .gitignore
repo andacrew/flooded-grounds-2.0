@@ -44,6 +44,16 @@
 *.opendb
 *.VC.db
 
+# LAB MAP
+/FloodedGroundsMap
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/CharacterPack
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/Gizmos
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/Music
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/CharacterPack.meta
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/Gizmos.meta
+/FloodedGrounds/Assets/MapAssets/Assets/UnityIconCollective/SnapsArtHDBuriedMemoriesVolume2Serekh/Music.meta
+
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
