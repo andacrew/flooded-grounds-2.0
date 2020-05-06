@@ -5,7 +5,7 @@
             <value>Footsteps</value>
         </property>
         <relationship name="folder">
-            <destination>{119be1e0-f496-43f1-a7a9-6c89e4e9c8e9}</destination>
+            <destination>{d0b75325-dd6e-491e-b0ce-1a8e605dedef}</destination>
         </relationship>
     </object>
 </objects>

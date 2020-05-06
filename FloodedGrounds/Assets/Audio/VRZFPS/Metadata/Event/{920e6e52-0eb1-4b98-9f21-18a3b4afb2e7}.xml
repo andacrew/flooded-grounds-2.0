@@ -129,13 +129,6 @@
         <relationship name="modulators">
             <destination>{ac81fe92-5b94-41bd-8669-663397ca6341}</destination>
         </relationship>
-        <relationship name="sounds">
-            <destination>{a5cdf251-1186-44c5-9e60-02db25dd3df9}</destination>
-            <destination>{afa74674-57a8-4afc-816e-758b0b6756f4}</destination>
-            <destination>{bc6ac08b-d292-43d7-8502-b8828f51eecd}</destination>
-            <destination>{6c8b4328-f8ae-4ce8-967e-39ab3409af02}</destination>
-            <destination>{7ea835b7-da53-4768-8c10-4f34307abf11}</destination>
-        </relationship>
     </object>
     <object class="EventMixerGroup" id="{c4964479-8296-4914-84fb-0705e863e44c}">
         <property name="name">
@@ -168,31 +161,6 @@
         <property name="amount">
             <value>6.5</value>
         </property>
-    </object>
-    <object class="SingleSound" id="{a5cdf251-1186-44c5-9e60-02db25dd3df9}">
-        <relationship name="audioFile">
-            <destination>{a9704573-6ef3-4bf9-b534-b242be26f6cb}</destination>
-        </relationship>
-    </object>
-    <object class="SingleSound" id="{afa74674-57a8-4afc-816e-758b0b6756f4}">
-        <relationship name="audioFile">
-            <destination>{cc25f40a-bd8f-427c-a98b-360b159ec128}</destination>
-        </relationship>
-    </object>
-    <object class="SingleSound" id="{bc6ac08b-d292-43d7-8502-b8828f51eecd}">
-        <relationship name="audioFile">
-            <destination>{c42627fe-3643-4c83-8fb1-bded62d017f3}</destination>
-        </relationship>
-    </object>
-    <object class="SingleSound" id="{6c8b4328-f8ae-4ce8-967e-39ab3409af02}">
-        <relationship name="audioFile">
-            <destination>{ae787525-a30e-4b68-8692-4b84724eadc4}</destination>
-        </relationship>
-    </object>
-    <object class="SingleSound" id="{7ea835b7-da53-4768-8c10-4f34307abf11}">
-        <relationship name="audioFile">
-            <destination>{76462cb0-40a9-4042-a108-4c4965c42d8b}</destination>
-        </relationship>
     </object>
     <object class="Automator" id="{7291af72-5160-412a-b8b4-179186f38f82}">
         <property name="nameOfPropertyBeingAutomated">
