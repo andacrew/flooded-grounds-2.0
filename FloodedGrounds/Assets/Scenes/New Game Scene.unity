@@ -11815,7 +11815,7 @@ MonoBehaviour:
   m_SpawnLocation: {fileID: 0}
   m_SpawnLocationOffset: {x: 2, y: 0, z: 0}
   m_SpawnPointGrouping: -1
-  m_Character: {fileID: 6235262611417619629, guid: bb21eda9416a4334fb9a17017c86c239,
+  m_Character: {fileID: 9072632893462653722, guid: 743f0355a2f786441ae83a25216d73e5,
     type: 3}
 --- !u!1 &1754368282 stripped
 GameObject:
