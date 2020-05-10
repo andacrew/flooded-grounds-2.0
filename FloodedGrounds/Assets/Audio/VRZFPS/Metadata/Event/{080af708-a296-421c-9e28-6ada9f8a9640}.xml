@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{080af708-a296-421c-9e28-6ada9f8a9640}">
         <property name="name">
-            <value>Revive Complete</value>
+            <value>ReviveComplete</value>
         </property>
         <property name="outputFormat">
             <value>2</value>
@@ -30,6 +30,9 @@
         </relationship>
         <relationship name="timeline">
             <destination>{7cbfd5cd-d420-4dcd-abb7-13d5911ee61f}</destination>
+        </relationship>
+        <relationship name="banks">
+            <destination>{2b1838c9-0220-4fc5-88d5-9266c4ab6f9a}</destination>
         </relationship>
     </object>
     <object class="EventMixer" id="{66593d5c-ab97-48aa-bb14-e62a1499b8b2}">
