@@ -8,6 +8,7 @@ using UnityEngine;
 using Photon.Realtime;
 using Photon.Pun;
 
+
 namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
 {
     /// <summary>
@@ -32,9 +33,8 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
         protected override GameObject GetCharacterPrefab(Player newPlayer)
         {
             
-            // Return the same character for all other instances.
-            return m_HCharacter;
-
+            return m_MCharacter;
+            
         }
     }
 }

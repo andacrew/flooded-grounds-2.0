@@ -24,6 +24,7 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Editor
         {
             EditorGUI.BeginChangeCheck();
             EditorGUILayout.PropertyField(PropertyFromName("m_HCharacter"));
+            EditorGUILayout.PropertyField(PropertyFromName("m_MCharacter"));
 
             if (EditorGUI.EndChangeCheck()) {
                 InspectorUtility.RecordUndoDirtyObject(target, "Change Value");
