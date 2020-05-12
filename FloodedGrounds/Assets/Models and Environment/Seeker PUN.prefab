@@ -10855,14 +10855,14 @@ MonoBehaviour:
   m_UIMonitorID: 0
   m_Icon: {fileID: 21300172, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
   m_ShowCrosshairsOnAim: 1
-  m_CenterCrosshairs: {fileID: 0}
+  m_CenterCrosshairs: {fileID: 21300022, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
   m_QuadrantOffset: 5
   m_MaxQuadrantSpread: 10
   m_QuadrantSpreadDamping: 0.05
-  m_LeftCrosshairs: {fileID: 0}
-  m_TopCrosshairs: {fileID: 0}
-  m_RightCrosshairs: {fileID: 0}
-  m_BottomCrosshairs: {fileID: 0}
+  m_LeftCrosshairs: {fileID: 21300050, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_TopCrosshairs: {fileID: 21300046, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_RightCrosshairs: {fileID: 21300048, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_BottomCrosshairs: {fileID: 21300066, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
   m_ShowFullScreenUI: 0
   m_FullScreenUIID: -1
   m_PickupItemEvent:
@@ -10975,7 +10975,7 @@ MonoBehaviour:
   m_FireCount: 1
   m_BurstCount: 5
   m_BurstDelay: 0.25
-  m_Spread: 0.01
+  m_Spread: 3
   m_FireInLookSourceDirection: 1
   m_Projectile: {fileID: 0}
   m_ProjectileFireVelocityMagnitude: 10
@@ -10999,7 +10999,7 @@ MonoBehaviour:
   m_ImpactForceFrames: 15
   m_ImpactStateName: 
   m_ImpactStateDisableTimer: 10
-  m_SurfaceImpact: {fileID: 0}
+  m_SurfaceImpact: {fileID: 11400000, guid: f49abdd3bca87e54cb474256211b133e, type: 2}
   m_ClipSize: 12
   m_AutoReload: 3
   m_ReloadType: 0
@@ -11048,7 +11048,8 @@ MonoBehaviour:
   m_ReloadAttachProjectileEvent:
     m_WaitForAnimationEvent: 1
     m_Duration: 0.6
-  m_ReloadDropClip: {fileID: 0}
+  m_ReloadDropClip: {fileID: 1354880577756302, guid: bf2b8484cdc3e4e4dacc95a47fe4c783,
+    type: 3}
   m_ReloadClipLayerChangeDelay: 0.1
   m_ReloadClipTargetLayer: 28
   m_ReloadDropClipEvent:
@@ -11073,7 +11074,7 @@ MonoBehaviour:
     m_MinValue: {x: -2, y: -1, z: 0}
     m_MaxValue: {x: -1, y: 1, z: 0}
     m_MinMagnitude: {x: 0, y: 0, z: 0}
-  m_CameraRecoilAccumulation: 0
+  m_CameraRecoilAccumulation: 0.2
   m_LocalizeRecoilForce: 0
   m_MuzzleFlash: {fileID: 1090768013372814, guid: eb09978e480a1a54087be6ff989d9f57,
     type: 3}
@@ -11431,14 +11432,14 @@ MonoBehaviour:
   m_UIMonitorID: 0
   m_Icon: {fileID: 21300090, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
   m_ShowCrosshairsOnAim: 1
-  m_CenterCrosshairs: {fileID: 0}
-  m_QuadrantOffset: 5
-  m_MaxQuadrantSpread: 10
+  m_CenterCrosshairs: {fileID: 21300056, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_QuadrantOffset: 7
+  m_MaxQuadrantSpread: 40
   m_QuadrantSpreadDamping: 0.05
-  m_LeftCrosshairs: {fileID: 0}
-  m_TopCrosshairs: {fileID: 0}
-  m_RightCrosshairs: {fileID: 0}
-  m_BottomCrosshairs: {fileID: 0}
+  m_LeftCrosshairs: {fileID: 21300064, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_TopCrosshairs: {fileID: 21300058, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_RightCrosshairs: {fileID: 21300062, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
+  m_BottomCrosshairs: {fileID: 21300060, guid: 5fb67c614ba76ca45a811c8e1f7be476, type: 3}
   m_ShowFullScreenUI: 0
   m_FullScreenUIID: -1
   m_PickupItemEvent:
@@ -11575,7 +11576,7 @@ MonoBehaviour:
   m_ImpactForceFrames: 15
   m_ImpactStateName: 
   m_ImpactStateDisableTimer: 10
-  m_SurfaceImpact: {fileID: 0}
+  m_SurfaceImpact: {fileID: 11400000, guid: f49abdd3bca87e54cb474256211b133e, type: 2}
   m_ClipSize: 30
   m_AutoReload: 3
   m_ReloadType: 0
@@ -11647,7 +11648,7 @@ MonoBehaviour:
     m_MinValue: {x: -2, y: -1, z: 0}
     m_MaxValue: {x: -1, y: 1, z: 0}
     m_MinMagnitude: {x: 0, y: 0, z: 0}
-  m_CameraRecoilAccumulation: 0
+  m_CameraRecoilAccumulation: 0.25
   m_LocalizeRecoilForce: 0
   m_MuzzleFlash: {fileID: 1090768013372814, guid: eb09978e480a1a54087be6ff989d9f57,
     type: 3}

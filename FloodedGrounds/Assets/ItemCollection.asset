@@ -20,7 +20,7 @@ MonoBehaviour:
   - {fileID: 114054956912609990}
   - {fileID: 114517641101047658}
   - {fileID: 114323490801824466}
-  - {fileID: 114993447180657802}
+  - {fileID: 114198692856061250}
 --- !u!114 &114054956912609990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37,6 +37,23 @@ MonoBehaviour:
   m_CategoryIDs: 00000000
   m_Description: 
   m_Capacity: 80
+  m_DroppedItemTypes: []
+--- !u!114 &114198692856061250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: SeekerSword
+  m_EditorClassIdentifier: 
+  m_ID: 4
+  m_CategoryIDs: 00000000
+  m_Description: 
+  m_Capacity: 1
   m_DroppedItemTypes: []
 --- !u!114 &114323490801824466
 MonoBehaviour:
@@ -88,21 +105,4 @@ MonoBehaviour:
   m_CategoryIDs: 00000000
   m_Description: 
   m_Capacity: 1
-  m_DroppedItemTypes: []
---- !u!114 &114993447180657802
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
-  m_Name: KirinMelee
-  m_EditorClassIdentifier: 
-  m_ID: 4
-  m_CategoryIDs: 00000000
-  m_Description: 
-  m_Capacity: 3.4028235e+38
   m_DroppedItemTypes: []

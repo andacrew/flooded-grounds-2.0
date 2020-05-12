@@ -120,6 +120,7 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Demo
         {
             var roomOptions = new RoomOptions();
             roomOptions.MaxPlayers = (byte)m_MaxPlayerCount;
+            roomOptions.BroadcastPropsChangeToAll = false; 
             PhotonNetwork.CreateRoom(null, roomOptions);
             SetStatus("No rooms available. Creating a room.");
         }

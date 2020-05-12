@@ -23,7 +23,8 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Editor
         public override void OnInspectorGUI()
         {
             EditorGUI.BeginChangeCheck();
-            EditorGUILayout.PropertyField(PropertyFromName("m_Character"));
+            EditorGUILayout.PropertyField(PropertyFromName("m_HCharacter"));
+
             if (EditorGUI.EndChangeCheck()) {
                 InspectorUtility.RecordUndoDirtyObject(target, "Change Value");
                 serializedObject.ApplyModifiedProperties();
