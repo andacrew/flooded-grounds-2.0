@@ -9810,7 +9810,8 @@ MonoBehaviour:
       m_ItemSubstateIndex: 2
       m_AudioClipSet:
         m_Delay: 0
-        m_AudioClips: []
+        m_AudioClips:
+        - {fileID: 8300000, guid: a01e35b8ec6b64845aadf7fc9952e4d9, type: 3}
     - m_States:
       - m_Name: Default
         m_Preset: {fileID: 0}
