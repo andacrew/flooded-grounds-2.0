@@ -15526,7 +15526,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &787522341
 MonoBehaviour:
@@ -19404,7 +19404,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Event: event:/Gameplay/Music/Player Music
+  Event: event:/Environment/Ambient Track
   PlayEvent: 1
   StopEvent: 0
   CollisionTag: 
@@ -19427,8 +19427,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Event: event:/Environment/Ambient Track
-  PlayEvent: 1
+  Event: event:/Gameplay/Music/Player Music
+  PlayEvent: 0
   StopEvent: 0
   CollisionTag: 
   AllowFadeout: 1
@@ -19436,8 +19436,8 @@ MonoBehaviour:
   Preload: 0
   Params: []
   OverrideAttenuation: 0
-  OverrideMinDistance: 0
-  OverrideMaxDistance: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &1119344124
 GameObject:
   m_ObjectHideFlags: 0
@@ -33039,7 +33039,7 @@ PrefabInstance:
     - target: {fileID: 2024441319521884531, guid: f4c1c86095826684585580285347afa2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2024441319521884531, guid: f4c1c86095826684585580285347afa2,
         type: 3}
