@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="Event" id="{e884f705-587a-448a-acc3-80454c5c3656}">
         <property name="name">
-            <value>ScifiRifleReload</value>
+            <value>Scifi Rifle Reload</value>
         </property>
         <property name="outputFormat">
             <value>2</value>
@@ -31,9 +31,6 @@
         </relationship>
         <relationship name="timeline">
             <destination>{e0694a32-5c6c-4782-bbdb-e1c73fa9b658}</destination>
-        </relationship>
-        <relationship name="banks">
-            <destination>{2b1838c9-0220-4fc5-88d5-9266c4ab6f9a}</destination>
         </relationship>
     </object>
     <object class="EventMixer" id="{d6e5f520-7903-49c2-ad09-6464e39f7ca0}">

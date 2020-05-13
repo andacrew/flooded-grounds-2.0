@@ -19428,7 +19428,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Event: event:/Gameplay/Music/Player Music
-  PlayEvent: 0
+  PlayEvent: 1
   StopEvent: 0
   CollisionTag: 
   AllowFadeout: 1
