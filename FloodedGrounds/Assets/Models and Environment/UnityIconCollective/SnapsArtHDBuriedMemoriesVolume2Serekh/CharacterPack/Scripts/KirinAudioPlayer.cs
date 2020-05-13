@@ -76,8 +76,9 @@ public class KirinAudioPlayer : MonoBehaviour
         if (instance == null)
             instance = this;
         else if (instance != this)
-            Destroy(gameObject);
-
+            // Destroy(gameObject);
+            instance = this; 
+            
         kirinVoice = kirinVoiceAudioSource.GetComponent<AudioSource>();
         kirinMoves = kirinMovesAudioSource.GetComponent<AudioSource>();
         kirinFootsteps = kirinFootstepsAudioSource.GetComponent<AudioSource>();

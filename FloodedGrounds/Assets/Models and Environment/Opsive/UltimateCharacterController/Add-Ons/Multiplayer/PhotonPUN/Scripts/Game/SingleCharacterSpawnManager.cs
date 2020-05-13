@@ -6,6 +6,8 @@
 
 using UnityEngine;
 using Photon.Realtime;
+using Photon.Pun;
+
 
 namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
 {
@@ -15,10 +17,14 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
     public class SingleCharacterSpawnManager : SpawnManagerBase
     {
         [Tooltip("A reference to the character that PUN should spawn. This character must be setup using the PUN Multiplayer Manager.")]
-        [SerializeField] protected GameObject m_Character;
+        [SerializeField] protected GameObject m_MCharacter;
+        [SerializeField] protected GameObject m_HCharacter;
 
-        public GameObject Character { get { return m_Character; } set { m_Character = value; } }
-        
+
+        public GameObject MCharacter { get { return m_MCharacter; } set { m_MCharacter = value; } }
+        public GameObject HCharacter { get { return m_HCharacter; } set { m_HCharacter = value; } }
+
+
         /// <summary>
         /// Abstract method that allows for a character to be spawned based on the game logic.
         /// </summary>
@@ -26,8 +32,9 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
         /// <returns>The character prefab that should spawn.</returns>
         protected override GameObject GetCharacterPrefab(Player newPlayer)
         {
-            // Return the same character for all instances.
-            return m_Character;
+            
+            return m_MCharacter;
+            
         }
     }
 }
