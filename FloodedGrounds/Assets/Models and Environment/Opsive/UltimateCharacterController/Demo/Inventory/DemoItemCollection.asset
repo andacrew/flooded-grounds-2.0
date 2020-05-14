@@ -40,6 +40,7 @@ MonoBehaviour:
   - {fileID: 114099228593570972}
   - {fileID: 114544757700045432}
   - {fileID: 114046018007686742}
+  - {fileID: 114794850085946458}
 --- !u!114 &114046018007686742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -331,6 +332,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ID: 11
   m_CategoryIDs: bc16dd2c
+  m_Description: 
+  m_Capacity: 3.4028235e+38
+  m_DroppedItemTypes: []
+--- !u!114 &114794850085946458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: KeyCardFG
+  m_EditorClassIdentifier: 
+  m_ID: 20
+  m_CategoryIDs: 
   m_Description: 
   m_Capacity: 3.4028235e+38
   m_DroppedItemTypes: []

@@ -28,6 +28,12 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Demo
         [SerializeField] protected string m_SceneName = "DemoRoom";
         [Tooltip("The toggle that switches between a first and third person start.")]
         [SerializeField] protected Toggle m_PerspectiveToggle;
+        [Tooltip("The Ui Panel to let the user enter name, connect and play")]
+        [SerializeField]
+        private GameObject controlPanel;
+        [Tooltip("The UI Label to inform the user that the connection is in progress")]
+        [SerializeField]
+        private GameObject progressLabel;
 
         private bool m_IsConnecting;
 
@@ -71,8 +77,10 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Demo
         private void Start()
         {
             if (m_AutoConnect || m_ConnectButton == null) {
-                Connect();
             }
+
+            progressLabel.SetActive(false);
+            controlPanel.SetActive(true);
         }
 
         /// <summary>
@@ -80,6 +88,9 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Demo
         /// </summary>
         public void Connect()
         {
+            progressLabel.SetActive(true);
+            controlPanel.SetActive(false);
+
             if (m_IsConnecting) {
                 return;
             }

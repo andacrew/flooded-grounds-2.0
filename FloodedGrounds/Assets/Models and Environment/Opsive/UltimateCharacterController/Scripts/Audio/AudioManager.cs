@@ -7,6 +7,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
+using Opsive.UltimateCharacterController.Events;
 
 namespace Opsive.UltimateCharacterController.Audio
 {
@@ -467,18 +468,32 @@ namespace Opsive.UltimateCharacterController.Audio
 
             AudioSourcesIndex audioSourcesIndex;
             AudioSource audioSource = null;
-            if (gameObject != null && gameObject.activeInHierarchy) {
-                if (!m_GameObjectAudioSourcesMap.TryGetValue(gameObject, out audioSourcesIndex)) {
-                    RegisterInternal(gameObject, 1);
-                    audioSourcesIndex = m_GameObjectAudioSourcesMap[gameObject];
+            if (clip.name.IndexOf("FMOD") == 0)
+            {
+                string eventName = clip.name.Replace("FMOD_", "");
+                eventName = "event:/" + eventName.Replace("_", "/");
+                Debug.Log(eventName);
+                EventHandler.ExecuteEvent("PlayFMODSound", gameObject.transform, eventName);
+            }
+            else
+            {
+                if (gameObject != null && gameObject.activeInHierarchy)
+                {
+                    if (!m_GameObjectAudioSourcesMap.TryGetValue(gameObject, out audioSourcesIndex))
+                    {
+                        RegisterInternal(gameObject, 1);
+                        audioSourcesIndex = m_GameObjectAudioSourcesMap[gameObject];
+                    }
+                    audioSource = audioSourcesIndex.GetAvailableAudioSource(reservedIndex);
                 }
-                audioSource = audioSourcesIndex.GetAvailableAudioSource(reservedIndex);
-            } else {
-                // If a GameObject is disabled then it can't play the AudioSource. Use the scene AudioSource which will always be active.
-                var sceneAudioSourcesIndex = m_GameObjectAudioSourcesMap[m_GameObject];
-                audioSource = sceneAudioSourcesIndex.GetAvailableAudioSource(reservedIndex, sceneAudioSourcesIndex.AudioSources[0], true);
-                // The position may have been changed by PlayAtPosition.
-                audioSource.transform.localPosition = Vector3.zero;
+                else
+                {
+                    // If a GameObject is disabled then it can't play the AudioSource. Use the scene AudioSource which will always be active.
+                    var sceneAudioSourcesIndex = m_GameObjectAudioSourcesMap[m_GameObject];
+                    audioSource = sceneAudioSourcesIndex.GetAvailableAudioSource(reservedIndex, sceneAudioSourcesIndex.AudioSources[0], true);
+                    // The position may have been changed by PlayAtPosition.
+                    audioSource.transform.localPosition = Vector3.zero;
+                }
             }
 
             // Play the clip.

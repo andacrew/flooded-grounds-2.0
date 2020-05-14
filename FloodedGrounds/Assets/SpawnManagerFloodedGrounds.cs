@@ -152,7 +152,11 @@ namespace Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPun.Game
         {   
             
             if(newPlayer.ActorNumber == 1)
-            return m_MCharacter;
+            {
+                m_SpawnPointGrouping = 1;
+                return m_MCharacter;
+            }
+            
 
             return m_HCharacter;
         }

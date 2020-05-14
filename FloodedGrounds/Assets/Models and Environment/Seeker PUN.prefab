@@ -7942,8 +7942,7 @@ MonoBehaviour:
   m_TakeDamageAudioClipSet:
     m_Delay: 0
     m_AudioClips:
-    - {fileID: 8300000, guid: 743b3ac945b0edd449917bd827b4e681, type: 3}
-    - {fileID: 8300000, guid: e463ba7a58f93a34fbb5752b44166236, type: 3}
+    - {fileID: 8300000, guid: b7b2f98f90e7f6043906960bcb2acd85, type: 3}
   m_HealAudioClipSet:
     m_Delay: 0
     m_AudioClips: []
@@ -10960,7 +10959,8 @@ MonoBehaviour:
       m_ItemSubstateIndex: 2
       m_AudioClipSet:
         m_Delay: 0
-        m_AudioClips: []
+        m_AudioClips:
+        - {fileID: 8300000, guid: d13c52baa45e8094ea76a054415b5663, type: 3}
   m_ConsumableItemType: {fileID: 114323490801824466, guid: 10e19e30dbebb7646a7aed0f4fd949f6,
     type: 2}
   m_FireMode: 0
@@ -10988,7 +10988,7 @@ MonoBehaviour:
   m_DryFireAudioClipSet:
     m_Delay: 0
     m_AudioClips:
-    - {fileID: 8300000, guid: e41ada05bf82c95478e948906e8e86db, type: 3}
+    - {fileID: 8300000, guid: 3c1bd3343f9cd6f4f86d68cd53bbe5d0, type: 3}
   m_HitscanFireRange: 3.4028235e+38
   m_MaxHitscanCollisionCount: 15
   m_ImpactLayers:
@@ -11036,8 +11036,7 @@ MonoBehaviour:
   m_ReloadCompleteAudioClipSet:
     m_Delay: 0
     m_AudioClips:
-    - {fileID: 8300000, guid: 838d198427ce38e40a6314a2fbaf0a38, type: 3}
-    - {fileID: 8300000, guid: c6ebf077d67a0d149979b10ef65c07e3, type: 3}
+    - {fileID: 8300000, guid: 59cdd35a865d1594c8df7139edb77744, type: 3}
   m_ReloadDetachAttachClip: 1
   m_ReloadDetachClipEvent:
     m_WaitForAnimationEvent: 1
@@ -11540,7 +11539,7 @@ MonoBehaviour:
         m_AudioClips: []
   m_ConsumableItemType: {fileID: 114054956912609990, guid: 10e19e30dbebb7646a7aed0f4fd949f6,
     type: 2}
-  m_FireMode: 2
+  m_FireMode: 1
   m_FireType: 0
   m_MinChargeLength: 0
   m_FullChargeLength: 0
@@ -11612,7 +11611,8 @@ MonoBehaviour:
     m_Duration: 0
   m_ReloadCompleteAudioClipSet:
     m_Delay: 0
-    m_AudioClips: []
+    m_AudioClips:
+    - {fileID: 8300000, guid: 838d198427ce38e40a6314a2fbaf0a38, type: 3}
   m_ReloadDetachAttachClip: 1
   m_ReloadDetachClipEvent:
     m_WaitForAnimationEvent: 1

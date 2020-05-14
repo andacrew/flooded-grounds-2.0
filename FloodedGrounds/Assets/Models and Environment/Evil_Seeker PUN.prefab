@@ -2221,7 +2221,8 @@ MonoBehaviour:
     m_Bits: 0
   m_TakeDamageAudioClipSet:
     m_Delay: 0
-    m_AudioClips: []
+    m_AudioClips:
+    - {fileID: 8300000, guid: d4e3446e0bd9b2e4f8998346ef97ebdf, type: 3}
   m_HealAudioClipSet:
     m_Delay: 0
     m_AudioClips: []
@@ -9776,7 +9777,7 @@ MonoBehaviour:
   m_FaceTarget: 0
   m_StopUseAbilityDelay: 0
   m_UseEvent:
-    m_WaitForAnimationEvent: 1
+    m_WaitForAnimationEvent: 0
     m_Duration: 0
   m_UseCompleteEvent:
     m_WaitForAnimationEvent: 1
@@ -9810,7 +9811,9 @@ MonoBehaviour:
       m_ItemSubstateIndex: 2
       m_AudioClipSet:
         m_Delay: 0
-        m_AudioClips: []
+        m_AudioClips:
+        - {fileID: 8300000, guid: b7b2f98f90e7f6043906960bcb2acd85, type: 3}
+        - {fileID: 8300000, guid: b7b2f98f90e7f6043906960bcb2acd85, type: 3}
     - m_States:
       - m_Name: Default
         m_Preset: {fileID: 0}
@@ -9925,7 +9928,7 @@ MonoBehaviour:
   m_FaceTarget: 0
   m_StopUseAbilityDelay: 0
   m_UseEvent:
-    m_WaitForAnimationEvent: 1
+    m_WaitForAnimationEvent: 0
     m_Duration: 0
   m_UseCompleteEvent:
     m_WaitForAnimationEvent: 1
@@ -9937,15 +9940,15 @@ MonoBehaviour:
   m_DropWhenUseDepleted: 0
   m_CharacterUseAttributeName: 
   m_CharacterUseAttributeAmount: 0
-  m_PlayAudioOnStartUse: 1
+  m_PlayAudioOnStartUse: 0
   m_UseAnimatorAudioStateSet:
     m_AnimatorAudioStateSelectorData:
-      m_ObjectType: Opsive.UltimateCharacterController.Items.AnimatorAudioStates.Random
-      m_ValueHashes: 
-      m_ValuePositions: 
-      m_Values: 
+      m_ObjectType: Opsive.UltimateCharacterController.Items.AnimatorAudioStates.Sequence
+      m_ValueHashes: 6dc4e8ab
+      m_ValuePositions: 00000000
+      m_Values: 000080bf
       m_UnityObjects: []
-      m_Version: 2.0
+      m_Version: 2.1.7
     m_States:
     - m_States:
       - m_Name: Default
@@ -9960,8 +9963,7 @@ MonoBehaviour:
       m_AudioClipSet:
         m_Delay: 0
         m_AudioClips:
-        - {fileID: 8300000, guid: f5e54ede6765f0d42903e26f4202a447, type: 3}
-        - {fileID: 8300000, guid: bd24d61ababc6cf47adfeb4edc730ca6, type: 3}
+        - {fileID: 8300000, guid: b7b2f98f90e7f6043906960bcb2acd85, type: 3}
   m_RequireInAirMeleeAbilityInAir: 1
   m_RequireCounterAttackAbility: 0
   m_ConsumableItemType: {fileID: 0}
@@ -9980,7 +9982,7 @@ MonoBehaviour:
   m_ImpactForceFrames: 15
   m_ImpactStateName: 
   m_ImpactStateDisableTimer: 10
-  m_SurfaceImpact: {fileID: 0}
+  m_SurfaceImpact: {fileID: 11400000, guid: c5ab4290ae28ad645a9e5b3483fc05cb, type: 2}
   m_ApplyRecoil: 0
   m_RecoilAnimatorAudioStateSet:
     m_AnimatorAudioStateSelectorData:
