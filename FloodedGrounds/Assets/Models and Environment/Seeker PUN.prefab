@@ -10959,8 +10959,7 @@ MonoBehaviour:
       m_ItemSubstateIndex: 2
       m_AudioClipSet:
         m_Delay: 0
-        m_AudioClips:
-        - {fileID: 8300000, guid: d13c52baa45e8094ea76a054415b5663, type: 3}
+        m_AudioClips: []
   m_ConsumableItemType: {fileID: 114323490801824466, guid: 10e19e30dbebb7646a7aed0f4fd949f6,
     type: 2}
   m_FireMode: 0
