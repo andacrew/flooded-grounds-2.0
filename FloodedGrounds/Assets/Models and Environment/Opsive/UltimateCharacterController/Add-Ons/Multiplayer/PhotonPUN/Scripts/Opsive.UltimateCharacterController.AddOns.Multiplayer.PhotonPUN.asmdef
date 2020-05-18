@@ -1,0 +1,10 @@
+{
+    "name": "Opsive.UltimateCharacterController.Addons.Multiplayer.PhotonPUN",
+    "references": [
+        "Opsive.UltimateCharacterController",
+        "PhotonUnityNetworking",
+        "PhotonRealtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

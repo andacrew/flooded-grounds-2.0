@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{eac6e530-729c-4d87-b76f-f3e28e54af76}">
+        <property name="assetPath">
+            <value>SFX_BulletMetal3.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.61506249999999996</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c895a100-9fb0-468d-9ae8-a847aa332262}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -8,7 +8,7 @@
             <value>2</value>
         </property>
         <relationship name="folder">
-            <destination>{af76a14e-cc24-4f66-b39a-f21f3bf4bfbd}</destination>
+            <destination>{295e0490-36dc-44a6-9ede-f4af839193bd}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{c72cb273-5f99-4d6c-b10d-81252e090171}</destination>
@@ -59,11 +59,18 @@
     <object class="EventAutomatableProperties" id="{94af45ab-23c2-4359-a920-1ba846d99086}"/>
     <object class="MarkerTrack" id="{4c96006d-657f-405d-a6d8-0fe3afe8911a}"/>
     <object class="GroupTrack" id="{24eba3b7-0765-4dc7-8da7-c0f3e14914c8}">
+        <relationship name="modules">
+            <destination>{635b917a-b45b-44df-a959-0bd5fa1f1ee0}</destination>
+        </relationship>
         <relationship name="mixerGroup">
             <destination>{c871cd4b-d6c3-42ef-a438-8725de12aa2d}</destination>
         </relationship>
     </object>
-    <object class="Timeline" id="{1373fb17-4957-4367-ae6a-f12e328a82b7}"/>
+    <object class="Timeline" id="{1373fb17-4957-4367-ae6a-f12e328a82b7}">
+        <relationship name="modules">
+            <destination>{635b917a-b45b-44df-a959-0bd5fa1f1ee0}</destination>
+        </relationship>
+    </object>
     <object class="EventMixerMaster" id="{032a8191-15d9-4200-b931-dc8659e85cf1}">
         <relationship name="effectChain">
             <destination>{08c90882-9862-425f-91c3-343e0aa28c76}</destination>
@@ -81,6 +88,14 @@
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{77df1b72-ce8a-44a0-bacb-51cc45d46b22}"/>
+    <object class="SingleSound" id="{635b917a-b45b-44df-a959-0bd5fa1f1ee0}">
+        <property name="length">
+            <value>1.1240833333333333</value>
+        </property>
+        <relationship name="audioFile">
+            <destination>{7b957bd2-3a62-48ef-9dd3-9a648c28f3ed}</destination>
+        </relationship>
+    </object>
     <object class="EventMixerGroup" id="{c871cd4b-d6c3-42ef-a438-8725de12aa2d}">
         <property name="name">
             <value>Audio 1</value>

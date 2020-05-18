@@ -1,0 +1,15 @@
+{
+    "name": "Opsive.UltimateCharacterController.Addons.Multiplayer.PhotonPUN.Editor",
+    "references": [
+        "Opsive.UltimateCharacterController.Addons.Multiplayer.PhotonPUN",
+        "Opsive.UltimateCharacterController",
+        "Opsive.UltimateCharacterController.Editor",
+        "PhotonRealtime",
+        "PhotonUnityNetworking",
+        "Opsive.UltimateCharacterController.Addons.Multiplayer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

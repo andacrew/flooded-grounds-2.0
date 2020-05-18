@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{020d9079-ac51-41e7-80fa-38760addfa5f}">
+        <property name="assetPath">
+            <value>WPN_Arm_Gun_Charge_Up_03.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.74754166666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c895a100-9fb0-468d-9ae8-a847aa332262}</destination>
+        </relationship>
+    </object>
+</objects>
