@@ -22,7 +22,12 @@ public class ObjectiveKillEnemies : MonoBehaviour
 
     void OnKillEnemy(EnemyController enemy, int remaining)
     {
-  
+        if (m_Objective.isCompleted)
+            return;
+
+        if (mustKillAllEnemies)
+            killsToCompleteObjective = m_EnemyManager.numberOfEnemiesTotal;
+
         m_KillTotal = m_EnemyManager.numberOfEnemiesTotal - remaining;
         int targetRemaning = mustKillAllEnemies ? remaining : killsToCompleteObjective - m_KillTotal;
 
